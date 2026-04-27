@@ -57,8 +57,16 @@
       "zh_tw": "Red Killer",
       "en": "Red Killer"
     },
-    "vocalist": {},
-    "album": {},
+    "vocalist": {
+      "zh_tw": "王允宸",
+      "zh_cn": "王允宸",
+      "en": "Wang Yunchen"
+    },
+    "album": {
+      "zh_cn": "光的回响",
+      "zh_tw": "光的迴響",
+      "en": "Light Echo"
+    },
     "intro": {},
     "links": [
       {
@@ -311,7 +319,9 @@
       "zh_tw": "鐘佳昊",
       "en": "Haul Choong"
     },
-    "vocalist": {},
+    "vocalist": {
+      "zh_cn": "卡尔通"
+    },
     "album": {},
     "intro": {},
     "links": [],
@@ -1042,8 +1052,8 @@
   },
   {
     "zh_cn": "骑士・传颂歌谣",
-    "zh_tw": "騎士・傳頌歌謠（PV）",
-    "en": "Knight's Ballad (PV)",
+    "zh_tw": "騎士・傳頌歌謠",
+    "en": "Knight's Ballad",
     "lyricist": {
       "zh_cn": "王允宸"
     },
@@ -1676,27 +1686,6 @@
     "creditType": "original"
   },
   {
-    "zh_cn": "追光＋耳边",
-    "zh_tw": "追光＋耳邊",
-    "en": "Pursuing the Light + By One's Ear",
-    "lyricist": {},
-    "composer": {},
-    "arranger": {},
-    "vocalist": {
-      "zh_cn": "王允宸"
-    },
-    "album": {},
-    "intro": {},
-    "links": [
-      {
-        "platform": "netease",
-        "url": "https://music.163.com/#/song?id=1976114724"
-      }
-    ],
-    "genre": "原创",
-    "creditType": "composer"
-  },
-  {
     "zh_cn": "何以自Chat",
     "zh_tw": "何以自Chat",
     "en": "How to Self-Converse",
@@ -1857,9 +1846,9 @@
       "zh_cn": "王允宸"
     },
     "arranger": {
-      "zh_cn": "Red killer",
-      "zh_tw": "Red killer",
-      "en": "Red killer"
+      "zh_cn": "Red Killer",
+      "zh_tw": "Red Killer",
+      "en": "Red Killer"
     },
     "vocalist": {
       "zh_cn": "王允宸"
