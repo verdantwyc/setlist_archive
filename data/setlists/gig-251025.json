@@ -1,0 +1,21 @@
+{
+  "venueId": "gig-251025",
+  "seriesId": "series-gigfest",
+  "tracks": [
+    {
+      "titleCn": "灯烛光",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=3327746993"
+        }
+      ]
+    }
+  ],
+  "encore": []
+}
