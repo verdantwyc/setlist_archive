@@ -1,0 +1,169 @@
+{
+  "venueId": "mrg-bej",
+  "seriesId": "series-mirrorglass",
+  "tracks": [
+    {
+      "titleCn": "克莱因瓶的假设",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "镜渊MirrorGlass",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "没有你也能走下去",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "单向镜面",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "隐",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "那些花儿",
+      "performer": "王允宸, 谢天依",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "马德里不思议",
+      "performer": "王允宸, 谢天依",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "Tita Tita",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "野人",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "天生吉普赛",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=619614969"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=3321722361"
+        }
+      ]
+    },
+    {
+      "titleCn": "Abracadabra",
+      "performer": "王允宸",
+      "genre": "BGM",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "Toxic",
+      "performer": "王允宸",
+      "genre": "BGM",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "反派心理",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "沉默违规",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "流星没有目的地",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "胆小的勇敢",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "灯塔与孤舟",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "Bilibala Boom 冲！",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "白矮星终将燃尽",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    }
+  ],
+  "encore": []
+}

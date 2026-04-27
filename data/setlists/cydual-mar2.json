@@ -1,0 +1,145 @@
+{
+  "venueId": "cydual-mar2",
+  "seriesId": "series-cydual",
+  "tracks": [
+    {
+      "titleCn": "反副作用",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "NPD幸存者",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "迷迭香",
+      "performer": "王允宸, 蒋芸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "Trouble Maker",
+      "performer": "王允宸, 蒋芸",
+      "genre": "BGM",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "醉",
+      "performer": "王允宸, 蒋芸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "雌蕊雄蕊夜之蝶(おしべとめしべと夜の蝶々)",
+      "performer": "王允宸, 蒋芸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "恶作剧",
+      "performer": "王允宸, 蒋芸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "你曾是少年",
+      "performer": "王允宸, 蒋芸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "单向镜面",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=358100366"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1862102670"
+        }
+      ]
+    },
+    {
+      "titleCn": "狗狗减肥操",
+      "performer": "王允宸, 蒋芸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "Señorita",
+      "performer": "王允宸, 蒋芸",
+      "genre": "BGM",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "别说破",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "删情",
+      "performer": "王允宸, 蒋芸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "无名梦",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "白矮星终将燃尽",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "暗物质",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "original",
+      "isPV": false
+    }
+  ],
+  "encore": []
+}

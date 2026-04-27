@@ -1,0 +1,67 @@
+{
+  "venueId": "gig-231104",
+  "seriesId": "series-gigfest",
+  "tracks": [
+    {
+      "titleCn": "椰子拿铁",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1941135349"
+        }
+      ]
+    },
+    {
+      "titleCn": "单向镜面",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=358100366"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1862102670"
+        }
+      ]
+    },
+    {
+      "titleCn": "禁止不开心",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2013383303"
+        }
+      ]
+    },
+    {
+      "titleCn": "禁止不加薪",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2069715784"
+        }
+      ]
+    }
+  ],
+  "encore": []
+}

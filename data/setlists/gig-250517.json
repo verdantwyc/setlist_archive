@@ -1,0 +1,21 @@
+{
+  "venueId": "gig-250517",
+  "seriesId": "series-gigfest",
+  "tracks": [
+    {
+      "titleCn": "JOJO",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "original",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2125072315"
+        }
+      ]
+    }
+  ],
+  "encore": []
+}

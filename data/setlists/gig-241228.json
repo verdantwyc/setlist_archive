@@ -1,0 +1,52 @@
+{
+  "venueId": "gig-241228",
+  "seriesId": "series-gigfest",
+  "tracks": [
+    {
+      "titleCn": "谪仙赋",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "光的回响",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=489292524&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2155762659"
+        }
+      ]
+    }
+  ],
+  "encore": [
+    {
+      "titleCn": "光的回响",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=489292524&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2155762659"
+        }
+      ]
+    }
+  ]
+}

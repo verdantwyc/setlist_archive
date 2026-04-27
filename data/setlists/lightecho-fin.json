@@ -1,0 +1,345 @@
+{
+  "venueId": "lightecho-fin",
+  "seriesId": "lightecho",
+  "tracks": [
+    {
+      "titleCn": "U&I",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=605706193"
+        }
+      ]
+    },
+    {
+      "titleCn": "辛徳瑞拉Cinderella",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "娘子军",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=604981075"
+        }
+      ]
+    },
+    {
+      "titleCn": "耳边",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1976114724"
+        }
+      ]
+    },
+    {
+      "titleCn": "迷途无归Stray",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156131573"
+        }
+      ]
+    },
+    {
+      "titleCn": "反副作用",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "禁止不加薪",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "写给追光的少年",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2036967435"
+        }
+      ]
+    },
+    {
+      "titleCn": "野人, 山海",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "华夏巾帼志",
+      "performer": "王允宸, 王珏语涵, 孙乐仟, 胥子含, 杜钇樵",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "九九八十一",
+      "performer": "王允宸, 王珏语涵, 孙乐仟, 胥子含, 杜钇樵",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "JOJO",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2125072315"
+        }
+      ]
+    },
+    {
+      "titleCn": "自证危机",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=588176180"
+        }
+      ]
+    },
+    {
+      "titleCn": "INFP-失控",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=524818527"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2635718554"
+        }
+      ]
+    },
+    {
+      "titleCn": "谪仙赋",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "反派角色",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=489414107"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156118232"
+        }
+      ]
+    },
+    {
+      "titleCn": "别说破",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "你是我的小狗狗You Are My Dog",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=600008326"
+        }
+      ]
+    },
+    {
+      "titleCn": "人间清醒",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "单向镜面",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=358100366"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1862102670"
+        }
+      ]
+    },
+    {
+      "titleCn": "追光(阿卡贝拉版)",
+      "performer": "王允宸, 王珏语涵, 孙乐仟, 胥子含, 杜钇樵",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "灯塔与孤舟",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=490891923&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156633428"
+        }
+      ]
+    },
+    {
+      "titleCn": "胆小的勇敢",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "光的回响",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=489292524&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2155762659"
+        }
+      ]
+    },
+    {
+      "titleCn": "流星没有目的地",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "Bilibala Boom 冲！",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=559709423&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2670877822"
+        }
+      ]
+    },
+    {
+      "titleCn": "与君歌",
+      "performer": "王允宸, 王珏语涵, 孙乐仟, 胥子含, 杜钇樵",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "握不住的光",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=588176215"
+        }
+      ]
+    }
+  ],
+  "encore": []
+}

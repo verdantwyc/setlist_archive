@@ -1,0 +1,235 @@
+{
+  "venueId": "rendez-cq1st",
+  "seriesId": "series-rendezvous",
+  "tracks": [
+    {
+      "titleCn": "隐",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=653232944"
+        }
+      ]
+    },
+    {
+      "titleCn": "夜莺与玫瑰",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "骑士・传颂歌谣",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=649042335&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2150747146"
+        }
+      ]
+    },
+    {
+      "titleCn": "飞蛾扑水",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2685941107"
+        }
+      ]
+    },
+    {
+      "titleCn": "野草",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2685941554"
+        }
+      ]
+    },
+    {
+      "titleCn": "Set Me Free",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "Tita Tita",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=653196165"
+        }
+      ]
+    },
+    {
+      "titleCn": "椰子拿铁",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1941135349"
+        }
+      ]
+    },
+    {
+      "titleCn": "渺渺化虚无",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "清欢不知愁",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "That's A No No",
+      "performer": "王允宸",
+      "genre": "BGM",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "Rich Man",
+      "performer": "王允宸",
+      "genre": "BGM",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "光的回响",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=489292524&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2155762659"
+        }
+      ]
+    },
+    {
+      "titleCn": "Utopia",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "圈圈点点圈圈点点圈圈点点?",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "Living Hell",
+      "performer": "王允宸",
+      "genre": "BGM",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "未来还未来",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "没什么了不起",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "白矮星终将燃尽",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "阿拉斯加海湾",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "Bilibala Boom 冲！",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=559709423"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2670877822"
+        }
+      ]
+    }
+  ],
+  "encore": []
+}

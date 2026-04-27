@@ -1,0 +1,112 @@
+{
+  "venueId": "rtaibai-gnz2",
+  "seriesId": "series-tbsumtour",
+  "tracks": [
+    {
+      "titleCn": "触摸星河",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "遥远的她",
+      "performer": "庞雪倩, 王珏语涵",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "诗的生命",
+      "performer": "王允宸, 庞雪倩",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "雕刻月亮",
+      "performer": "王珏语涵",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "蜀道难",
+      "performer": "王允宸, 庞雪倩, 王珏语涵",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "月圆",
+      "performer": "庞雪倩",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    }
+  ],
+  "encore": [
+    {
+      "titleCn": "时间跃迁",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2155862498"
+        }
+      ]
+    },
+    {
+      "titleCn": "颠覆",
+      "performer": "王允宸, 庞雪倩, 王珏语涵",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "九九八十一",
+      "performer": "王允宸, 庞雪倩, 王珏语涵",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "与君歌",
+      "performer": "王允宸, 庞雪倩, 王珏语涵, 左一平",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "Bilibala Boom 冲！",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=559709423&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2670877822"
+        }
+      ]
+    }
+  ]
+}

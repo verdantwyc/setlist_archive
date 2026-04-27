@@ -1,0 +1,281 @@
+{
+  "venueId": "lightecho-ctu",
+  "seriesId": "lightecho",
+  "tracks": [
+    {
+      "titleCn": "光的回响",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=489292524&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2155762659"
+        }
+      ]
+    },
+    {
+      "titleCn": "怪美的",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "娘子军",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=604981075"
+        }
+      ]
+    },
+    {
+      "titleCn": "INFP-失控",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=524818527"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2635718554"
+        }
+      ]
+    },
+    {
+      "titleCn": "梦魇回响",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156136995"
+        }
+      ]
+    },
+    {
+      "titleCn": "乌鸦谎话",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=490006545&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156140169"
+        }
+      ]
+    },
+    {
+      "titleCn": "坠入梦与梦的滤镜",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "未来还未来",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "好想爱这个世界啊",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "羊角花又开",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": false,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "月圆",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "谪仙赋",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "反派角色",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=489414107"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156118232"
+        }
+      ]
+    },
+    {
+      "titleCn": "JOJO",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2125072315"
+        }
+      ]
+    },
+    {
+      "titleCn": "自证危机",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=588176180"
+        }
+      ]
+    },
+    {
+      "titleCn": "气球+小狗=怪兽!",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2153468842"
+        }
+      ]
+    },
+    {
+      "titleCn": "删情",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "流星没有目的地",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "Bilibala Boom 冲！",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=559709423&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2670877822"
+        }
+      ]
+    },
+    {
+      "titleCn": "单向镜面",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=358100366"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1862102670"
+        }
+      ]
+    },
+    {
+      "titleCn": "单线梦境",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "推开世界的门",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "与君歌",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    }
+  ],
+  "encore": []
+}

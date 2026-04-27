@@ -1,0 +1,283 @@
+{
+  "venueId": "mrg-szx",
+  "seriesId": "series-mirrorglass",
+  "tracks": [
+    {
+      "titleCn": "娘子军",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=604981075"
+        }
+      ]
+    },
+    {
+      "titleCn": "谪仙赋",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "沉默违规",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=588176107"
+        }
+      ]
+    },
+    {
+      "titleCn": "JOJO",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2125072315"
+        }
+      ]
+    },
+    {
+      "titleCn": "没有你也能走下去",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": true,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "单线梦境",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "单向镜面",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=358100366"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1862102670"
+        }
+      ]
+    },
+    {
+      "titleCn": "流星没有目的地",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "白矮星终将燃尽",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "胆小的勇敢",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "天生吉普赛",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=619614969"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=3321722361"
+        }
+      ]
+    },
+    {
+      "titleCn": "梦魇回响",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156136995"
+        }
+      ]
+    },
+    {
+      "titleCn": "Utopia",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "骑士・传颂歌谣",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=649042335&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2150747146"
+        }
+      ]
+    },
+    {
+      "titleCn": "反派心理",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=600008222"
+        }
+      ]
+    },
+    {
+      "titleCn": "克莱因瓶的假设",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=600008281"
+        }
+      ]
+    },
+    {
+      "titleCn": "Illusion, Whiplash, Kill Shot, Mente Má",
+      "performer": "王允宸",
+      "genre": "BGM",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "隐",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=653232944"
+        }
+      ]
+    },
+    {
+      "titleCn": "Tita Tita",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=653196165"
+        }
+      ]
+    },
+    {
+      "titleCn": "椰子拿铁",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1941135349"
+        }
+      ]
+    },
+    {
+      "titleCn": "禁止不开心",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2013383303"
+        }
+      ]
+    },
+    {
+      "titleCn": "Bilibala Boom 冲！",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=559709423&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2670877822"
+        }
+      ]
+    }
+  ],
+  "encore": []
+}

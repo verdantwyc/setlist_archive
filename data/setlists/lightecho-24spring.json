@@ -1,0 +1,226 @@
+{
+  "venueId": "lightecho-24spring",
+  "seriesId": "lightecho",
+  "tracks": [
+    {
+      "titleCn": "光的回响",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=489292524&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2155762659"
+        }
+      ]
+    },
+    {
+      "titleCn": "时间跃迁",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2155862498"
+        }
+      ]
+    },
+    {
+      "titleCn": "写给追光的少年",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2036967435"
+        }
+      ]
+    },
+    {
+      "titleCn": "禁止不加薪",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "无悔少年",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "耳边",
+      "performer": "王允宸, 蒋芸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1976114724"
+        }
+      ]
+    },
+    {
+      "titleCn": "溺亡Drowned",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=644724033"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1987682587"
+        }
+      ]
+    },
+    {
+      "titleCn": "梦魇回响",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156136995"
+        }
+      ]
+    },
+    {
+      "titleCn": "JOJO",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2125072315"
+        }
+      ]
+    },
+    {
+      "titleCn": "宇宙灯球",
+      "performer": "王允宸, 曲晨语, 吕一",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "蹦迪少女",
+      "performer": "王允宸, 曲晨语, 吕一",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    },
+    {
+      "titleCn": "何以自Chat",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156602137"
+        }
+      ]
+    },
+    {
+      "titleCn": "反派角色",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=489414107"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156118232"
+        }
+      ]
+    },
+    {
+      "titleCn": "白矮星终将燃尽",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    }
+  ],
+  "encore": [
+    {
+      "titleCn": "灯塔与孤舟",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=490891923&songtype=0#webchat_redirect"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156633428"
+        }
+      ]
+    },
+    {
+      "titleCn": "禁止不开心",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2013383303"
+        }
+      ]
+    },
+    {
+      "titleCn": "机尾云(ひこうき雲)",
+      "performer": "王允宸",
+      "genre": "翻唱",
+      "showOriginal": true,
+      "originalType": "original",
+      "isPV": false
+    }
+  ]
+}

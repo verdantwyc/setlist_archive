@@ -1,0 +1,45 @@
+{
+  "venueId": "gig-231014",
+  "seriesId": "series-gigfest",
+  "tracks": [
+    {
+      "titleCn": "禁止不开心",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2013383303"
+        }
+      ]
+    },
+    {
+      "titleCn": "没有你也能走下去",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": true,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "单线梦境",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    },
+    {
+      "titleCn": "断线",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false
+    }
+  ],
+  "encore": []
+}

@@ -1,0 +1,23 @@
+{
+  "venueId": "gig-250808",
+  "seriesId": "series-gigfest",
+  "tracks": [
+    {
+      "titleCn": "白矮星终将燃尽",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false
+    },
+    {
+      "titleCn": "Tita Tita",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false
+    }
+  ],
+  "encore": []
+}

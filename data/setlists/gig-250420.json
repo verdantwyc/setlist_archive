@@ -1,0 +1,21 @@
+{
+  "venueId": "gig-250420",
+  "seriesId": "series-gigfest",
+  "tracks": [
+    {
+      "titleCn": "飞蛾扑水",
+      "performer": "王允宸",
+      "genre": "原唱",
+      "showOriginal": false,
+      "originalType": "composer",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2685941107"
+        }
+      ]
+    }
+  ],
+  "encore": []
+}

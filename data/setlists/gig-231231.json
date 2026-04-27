@@ -1,0 +1,67 @@
+{
+  "venueId": "gig-231231",
+  "seriesId": "series-gigfest",
+  "tracks": [
+    {
+      "titleCn": "何以自Chat",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156602137"
+        }
+      ]
+    },
+    {
+      "titleCn": "椰子拿铁",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=1941135349"
+        }
+      ]
+    },
+    {
+      "titleCn": "禁止不开心",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2013383303"
+        }
+      ]
+    },
+    {
+      "titleCn": "灯塔与孤舟",
+      "performer": "王允宸",
+      "genre": "原创",
+      "showOriginal": false,
+      "originalType": "vocalist",
+      "isPV": false,
+      "links": [
+        {
+          "platform": "qq",
+          "url": "https://i.y.qq.com/v8/playsong.html?songid=490891923"
+        },
+        {
+          "platform": "netease",
+          "url": "https://music.163.com/#/song?id=2156633428"
+        }
+      ]
+    }
+  ],
+  "encore": []
+}
