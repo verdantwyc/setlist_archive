@@ -33,6 +33,9 @@ const UI = {
   n_works:      {zh_cn:'作品',zh_tw:'作品',en:'works'},
   no_data:      {zh_cn:'暂无数据',zh_tw:'暫無資料',en:'No data'},
   loading:      {zh_cn:'载入中…',zh_tw:'載入中…',en:'Loading…'},
+  showing:      {zh_cn:'已显示',zh_tw:'已顯示',en:'Showing'},
+  of_total:     {zh_cn:'共',zh_tw:'共',en:'of'},
+  load_more:    {zh_cn:'载入更多',zh_tw:'載入更多',en:'Load more'},
   cancel:       {zh_cn:'取消',zh_tw:'取消',en:'Cancel'},
   save:         {zh_cn:'保存',zh_tw:'儲存',en:'Save'},
   performer:    {zh_cn:'演出',zh_tw:'演出',en:'Live'},
@@ -101,6 +104,11 @@ const setlistCache = {};
 
 let currentSeriesId = null, currentVenueId = null;
 let trackLibFilter = 'all';
+const LIB_BATCH_SIZE = 60;
+let trackLibVisibleCount = LIB_BATCH_SIZE;
+let artistLibVisibleCount = LIB_BATCH_SIZE;
+let lastTrackLibKey = '';
+let lastArtistLibKey = '';
 let artistLookup = new Map();
 let trackLookup = new Map();
 let worksByArtist = {};
@@ -491,6 +499,7 @@ function switchMainView(id){switchView(id);deferRender(rerenderActive);}
 function openArtistCard(cn){
   switchView('view-artist-lib');
   deferRender(()=>{
+    artistLibVisibleCount=DB.artists.length;
     renderPublicArtistLib();
     requestAnimationFrame(()=>{const el=document.getElementById('artist-card-'+safeId(cn));if(el){el.scrollIntoView({behavior:'smooth',block:'center'});el.classList.add('expanded');}});
   });
@@ -498,6 +507,7 @@ function openArtistCard(cn){
 function goToTrackLib(cn){
   switchView('view-track-lib');
   deferRender(()=>{
+    trackLibVisibleCount=DB.tracks.length;
     renderPublicTrackLib();
     requestAnimationFrame(()=>{document.querySelectorAll('.lib-card').forEach(el=>{if(el.dataset.titleCn===canonTrack(cn)){el.scrollIntoView({behavior:'smooth',block:'center'});el.classList.add('expanded');}});});
   });
@@ -633,17 +643,26 @@ function renderTrackCards(tracks,startIdx){
 
 // ─── TRACK LIBRARY ───────────────────────────────────────
 window.setTrackLibFilter=function(f,btn){
-  trackLibFilter=f;document.querySelectorAll('.filter-tab').forEach(b=>b.classList.remove('active'));if(btn)btn.classList.add('active');renderPublicTrackLib();
+  trackLibFilter=f;trackLibVisibleCount=LIB_BATCH_SIZE;lastTrackLibKey='';document.querySelectorAll('.filter-tab').forEach(b=>b.classList.remove('active'));if(btn)btn.classList.add('active');renderPublicTrackLib();
 };
+function libPager(type,shown,total){
+  if(shown>=total)return`<div class="lib-count-note">${t('showing')} ${shown} / ${total}</div>`;
+  const fn=type==='track'?'loadMoreTrackLib':'loadMoreArtistLib';
+  return`<div class="lib-load-more"><div class="lib-count-note">${t('showing')} ${shown} / ${total}</div><button class="filter-tab active" onclick="${fn}()">${t('load_more')}</button></div>`;
+}
 window.renderPublicTrackLib=function(){
   const rel=ensureRelationIndex();
   const q=(document.getElementById('pub-lib-search')?.value||'').toLowerCase();
   let tracks=DB.tracks.slice();
   if(trackLibFilter==='original')tracks=tracks.filter(ti=>ti.genre==='原创');
   if(q)tracks=tracks.filter(ti=>(ti.zh_cn||'').toLowerCase().includes(q)||(ti.zh_tw||'').toLowerCase().includes(q)||(ti.en||'').toLowerCase().includes(q));
+  const key=`${trackLibFilter}|${q}`;
+  if(key!==lastTrackLibKey){trackLibVisibleCount=LIB_BATCH_SIZE;lastTrackLibKey=key;}
+  const total=tracks.length;
+  const shownTracks=q?tracks:tracks.slice(0,trackLibVisibleCount);
   const el=document.getElementById('pub-lib-container');
   if(!tracks.length){el.innerHTML=`<div style="text-align:center;padding:40px;color:var(--text-muted);">${t('no_data')}</div>`;return;}
-  el.innerHTML=tracks.map(ti=>{
+  el.innerHTML=shownTracks.map(ti=>{
     const found=rel.track[ti.zh_cn]||{app:[],bgm:[]};
     const app=found.app,bgm=found.bgm;
     const total=app.length+bgm.length;
@@ -686,8 +705,12 @@ window.renderPublicTrackLib=function(){
         ${(ti.links||[]).length?`<div style="display:flex;gap:8px;margin-top:8px;">${streamLinks(ti.links)}</div>`:''}
       </div>
     </div>`;
-  }).join('');
+  }).join('')+libPager('track',shownTracks.length,total);
 };;
+window.loadMoreTrackLib=function(){
+  trackLibVisibleCount+=LIB_BATCH_SIZE;
+  renderPublicTrackLib();
+};
 
 // ─── ARTIST LIBRARY ──────────────────────────────────────
 window.renderPublicArtistLib=function(){
@@ -695,8 +718,12 @@ window.renderPublicArtistLib=function(){
   const q=(document.getElementById('pub-art-search')?.value||'').toLowerCase();
   let artists=DB.artists.slice();
   if(q)artists=artists.filter(a=>(a.zh_cn||'').toLowerCase().includes(q)||(a.zh_tw||'').toLowerCase().includes(q)||(a.en||'').toLowerCase().includes(q));
+  const key=q;
+  if(key!==lastArtistLibKey){artistLibVisibleCount=LIB_BATCH_SIZE;lastArtistLibKey=key;}
+  const total=artists.length;
+  const shownArtists=q?artists:artists.slice(0,artistLibVisibleCount);
   const el=document.getElementById('pub-art-container');
-  el.innerHTML=artists.map(a=>{
+  el.innerHTML=shownArtists.map(a=>{
     const perfV=rel.artist[a.zh_cn]||[];
     const works=worksByArtist[a.zh_cn]||{all:[],vocalist:[],lyricist:[],composer:[],arranger:[]};
     const hasP=perfV.length>0, hasW=works.all.length>0;
@@ -736,8 +763,27 @@ window.renderPublicArtistLib=function(){
         ${hasW?`<div class="artist-section-title">${t('rel_works')}</div>${tabs}`:''}
       </div>
     </div>`;
-  }).join('');
+  }).join('')+libPager('artist',shownArtists.length,total);
 };;
+window.loadMoreArtistLib=function(){
+  artistLibVisibleCount+=LIB_BATCH_SIZE;
+  renderPublicArtistLib();
+};
+
+let libraryScrollTicking=false;
+function maybeLoadMoreLibraryOnScroll(){
+  if(libraryScrollTicking)return;
+  libraryScrollTicking=true;
+  requestAnimationFrame(()=>{
+    libraryScrollTicking=false;
+    const active=document.querySelector('.view.active');
+    if(!active||!['view-track-lib','view-artist-lib'].includes(active.id))return;
+    if(window.innerHeight+window.scrollY<document.documentElement.scrollHeight-500)return;
+    if(active.id==='view-track-lib'&&!document.getElementById('pub-lib-search')?.value)loadMoreTrackLib();
+    if(active.id==='view-artist-lib'&&!document.getElementById('pub-art-search')?.value)loadMoreArtistLib();
+  });
+}
+window.addEventListener('scroll',maybeLoadMoreLibraryOnScroll,{passive:true});
 window.artTab=function(sid,role){
   const bar=document.getElementById('awt-'+sid);
   if(bar)bar.querySelectorAll('.modal-tab').forEach(b=>b.classList.toggle('active',b.getAttribute('onclick').includes("'"+role+"'")));
