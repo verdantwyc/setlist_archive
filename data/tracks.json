@@ -1,0 +1,4444 @@
+[
+  {
+    "zh_cn": "U&I",
+    "zh_tw": "U&I",
+    "en": "U&I",
+    "lyricist": {
+      "zh_cn": "王允宸",
+      "zh_tw": "王允宸",
+      "en": "Wang Yunchen"
+    },
+    "composer": {
+      "zh_cn": "郑冰冰",
+      "zh_tw": "鄭冰冰",
+      "en": "Zheng Bing Bing"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_tw": "娘子軍",
+      "zh_cn": "娘子军",
+      "en": "Women's Legion"
+    },
+    "intro": {
+      "zh_cn": "2024-05-31 《Zerlina的地星聚会》首唱",
+      "zh_tw": "2024-05-31 《Zerlina的地星聚會》首唱",
+      "en": "Debuted at 'Zerlina's Earth Party' on May 31, 2024"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=605706193"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "光的回响",
+    "zh_tw": "光的迴響",
+    "en": "Light Echo",
+    "lyricist": {
+      "zh_tw": "王允宸",
+      "zh_cn": "王允宸",
+      "en": "Wang Yunchen"
+    },
+    "composer": {
+      "zh_tw": "余竑龍",
+      "zh_cn": "余竑龙",
+      "en": "Red Dragon"
+    },
+    "arranger": {
+      "zh_cn": "Red Killer",
+      "zh_tw": "Red Killer",
+      "en": "Red Killer"
+    },
+    "vocalist": {},
+    "album": {},
+    "intro": {},
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=489292524"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2155762659"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "时间跃迁",
+    "zh_tw": "時間躍遷",
+    "en": "Temporal Leap",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "en": "Lucius Li, WangYunchen",
+      "zh_tw": "李宗馳, 王允宸",
+      "zh_cn": "李宗驰, 王允宸"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰",
+      "zh_tw": "李宗馳",
+      "en": "Lucius Li"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "光的回响",
+      "zh_tw": "光的迴響",
+      "en": "Light Echo"
+    },
+    "intro": {
+      "en": "First performed during the Quarterly MVP Stage on May 13, 2023; the official version was later included in the album \"Light Echo\"",
+      "zh_tw": "2023-05-13季度MVP首次演唱，正式發行版收錄於專輯\"光的迴響\"",
+      "zh_cn": "2023-05-13季度MVP首次演唱，正式发行版收录于专辑\"光的回响\""
+    },
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2155862498"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "蹦迪少女",
+    "zh_tw": "蹦迪少女",
+    "en": "Disco Girl",
+    "lyricist": {
+      "zh_cn": "T2o"
+    },
+    "composer": {
+      "zh_cn": "T2o"
+    },
+    "arranger": {
+      "zh_tw": "紀粹希",
+      "zh_cn": "纪粹希",
+      "en": "G-Tracy"
+    },
+    "vocalist": {
+      "zh_cn": "卢静"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "坠入梦与梦的滤镜",
+    "zh_tw": "墜入夢與夢的濾鏡",
+    "en": "Falling into the Filter Between Dreams",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "又名\"在梦与梦的滤镜之中\"，初次于2024-05-31《Zerlina的地星聚会》演唱",
+      "zh_tw": "又名\"在夢與夢的濾鏡之中\"，初次於2024-05-31《Zerlina的地星聚會》演唱",
+      "en": "A.K.A. 'Through the Filters of Dreams', the song was first performed on May 31, 2024, at 'Zerlina's Earth Party'"
+    },
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "追光",
+    "zh_tw": "追光",
+    "en": "Pursuing the Light",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "卡尔通"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "2020-10-17生日公演首次演唱",
+      "zh_tw": "2020-10-17生日公演首次演唱",
+      "en": "First performed on October 17, 2020, during her Birthday Performance"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=358100366"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=1862102670"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "单向镜面",
+    "zh_tw": "單向鏡面",
+    "en": "Unidirectional Mirror",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "卡尔通"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "单向镜面"
+    },
+    "intro": {
+      "zh_cn": "2021-04-07发行Demo，同年07-16于发言时刻（拉票公演）首次演唱编曲版。2022-05-31发行重新编曲版",
+      "zh_tw": "2021-04-07發行Demo，同年07-16於發言時刻（拉票公演）首次演唱編曲版。2022-05-31發行重新編曲版",
+      "en": "After dropping the demo on 2021.04.07, she debuted an arranged version live at her Campaign Stage on July 16. The track was further refined and released as a re-arranged version on May 31, 2022"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=358100366"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=1862102670"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "没有你也能走下去",
+    "zh_tw": "沒有你也能走下去",
+    "en": "I Can Go On Without You",
+    "lyricist": {
+      "zh_tw": "王允宸",
+      "zh_cn": "王允宸",
+      "en": "Wang Yunchen"
+    },
+    "composer": {
+      "zh_tw": "卡爾通",
+      "zh_cn": "卡尔通",
+      "en": "Cartoon"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "卡尔通作曲作品，由王允宸填词翻唱，未发布正式歌曲",
+      "zh_tw": "卡爾通作曲作品，由王允宸填詞翻唱，未發布正式歌曲",
+      "en": "This track was composed by Cartoon, featuring cover lyrics by SkyGrass. It remains an unofficial release with no studio version available"
+    },
+    "links": [],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "三年后",
+    "zh_tw": "三年後",
+    "en": "3 Years After",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {
+      "zh_cn": ""
+    },
+    "vocalist": {
+      "zh_cn": "卡尔通"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "默默爱你",
+    "zh_tw": "默默愛你",
+    "en": "Secretly Love You",
+    "lyricist": {
+      "zh_cn": "卡尔通"
+    },
+    "composer": {
+      "zh_cn": "卡尔通"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "卡尔通"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "没什么了不起",
+    "zh_tw": "沒什麼了不起",
+    "en": "Nothing Special",
+    "lyricist": {
+      "zh_cn": "陈丽惠",
+      "zh_tw": "陳麗惠",
+      "en": "Adternis Tan"
+    },
+    "composer": {
+      "zh_cn": "卡尔通"
+    },
+    "arranger": {
+      "zh_cn": "钟佳昊",
+      "zh_tw": "鐘佳昊",
+      "en": "Haul Choong"
+    },
+    "vocalist": {},
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "JOJO",
+    "zh_tw": "JOJO",
+    "en": "JOJO",
+    "lyricist": {
+      "zh_cn": "郭德紫毅, 王允宸",
+      "zh_tw": "郭德紫毅, 王允宸",
+      "en": "Guode Ziyi, Wang Yunchen"
+    },
+    "composer": {
+      "zh_cn": "Burgerlin, 郁采真, 彭偲禹",
+      "zh_tw": "Burgerlin, 郁采真, 彭偲禹",
+      "en": "Burgerlin, Volcano, Desiree"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2125072315"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "禁止不加薪",
+    "zh_tw": "禁止不加薪",
+    "en": "No Work Without A Raise",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "禁止不加薪"
+    },
+    "intro": {
+      "zh_tw": "2023-05-20年度MVP《禁止不開心》首次演唱並於稍晚在網易雲音樂發佈同名EP",
+      "zh_cn": "2023-05-20年度MVP《禁止不开心》首次演唱并于稍晚在网易云音乐发布同名EP",
+      "en": "First performed on May 20, 2023, during the 'Joy is Mandatory' Annual MVP Special Stage, with the EP released on NetEase Music later "
+    },
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2069715784"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "月圆",
+    "zh_tw": "月圓",
+    "en": "Yue Yuan",
+    "lyricist": {
+      "zh_cn": "Yuki Huang",
+      "zh_tw": "Yuki Huang",
+      "en": "Yuki Huang"
+    },
+    "composer": {
+      "zh_cn": "HEERU",
+      "zh_tw": "HEERU",
+      "en": "HEERU"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "音乐剧《摇滚太白・诗与星》"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "出自音乐剧《摇滚太白・诗与星》",
+      "zh_tw": "出自音樂劇《搖滾太白・詩與星》",
+      "en": "From musical \"Taibai: the Starry Poem\""
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "九九八十一",
+    "zh_tw": "九九八十一",
+    "en": "The 81 Tribulations",
+    "lyricist": {
+      "zh_cn": "邪叫教主"
+    },
+    "composer": {
+      "zh_cn": "乌龟Sui"
+    },
+    "arranger": {
+      "zh_cn": "乌龟Sui"
+    },
+    "vocalist": {
+      "zh_cn": "乐正绫, 洛天依"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "2016年哔哩哔哩拜年纪中的原创歌曲 ，并由虚拟歌手乐正绫演唱、洛天依和声。以《西游记》为题材，视频中所有角色均由不同的VOCALOID虚拟歌手和歌曲创作人员扮演，其原版视频因为热血的旋律与颠覆的动漫形象，在哔哩哔哩弹幕网上的播放量已突破1000万次，达成了VOCALOID中文神话曲的成就 ",
+      "zh_tw": "2016年嗶哩嗶哩拜年紀中的原創歌曲 ，並由虛擬歌手樂正綾演唱、洛天依和聲。以《西遊記》為題材，影片中所有角色均由不同的VOCALOID虛擬歌手和歌曲創作人員扮演，因原版影片中熱血的旋律與顛覆的動漫形象，在B站上的播放量已突破1000萬，達成VOCALOID中文神話曲的成就 ",
+      "en": "An original song from the 2016 Bilibili New Year's Gala, performed by the virtual singer Yuezheng Ling with harmonies by Luo Tianyi. Themed after \"Journey to the West\", all characters in the music video are portrayed by various VOCALOID virtual singers and the song's creators. Due to its high-energy melody and subversive anime imagery, the original video has surpassed 10 million views on Bilibili, achieving the status of a \"VOCALOID Chinese Myth Song\""
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "日不落",
+    "zh_tw": "日不落",
+    "en": "Sun Will Never Set",
+    "lyricist": {
+      "zh_cn": "崔惟楷",
+      "zh_tw": "崔惟楷",
+      "en": "Luke Tsui"
+    },
+    "composer": {
+      "zh_cn": "Alexander Bard, Anders Hansson",
+      "zh_tw": "Alexander Bard, Anders Hansson",
+      "en": "Alexander Bard, Anders Hansson"
+    },
+    "arranger": {
+      "zh_tw": "林邁可",
+      "zh_cn": "林迈可",
+      "en": "Michael Lin"
+    },
+    "vocalist": {
+      "zh_cn": "蔡依林",
+      "en": "Jolin Tsai"
+    },
+    "album": {
+      "zh_tw": "特務J",
+      "zh_cn": "特务J",
+      "en": "Agent J"
+    },
+    "intro": {
+      "zh_tw": "翻唱自瑞典組合BWO的《Sunshine In The Rain》，由崔惟楷重新填詞",
+      "zh_cn": "翻唱自瑞典组合BWO的《Sunshine In The Rain》，由崔惟楷重新填词",
+      "en": "This is a cover of the song \"Sunshine In The Rain\" by the Swedish group BWO, with new lyrics written by Luke Tsui "
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "血腥爱情故事",
+    "zh_tw": "血腥愛情故事",
+    "en": "A Bloody Love Story",
+    "lyricist": {
+      "zh_cn": "Hush",
+      "zh_tw": "Hush",
+      "en": "Hush"
+    },
+    "composer": {
+      "zh_cn": "Jonnic",
+      "zh_tw": "Jonnic",
+      "en": "Jonnic"
+    },
+    "arranger": {
+      "zh_tw": "陳君豪, 梁思樺",
+      "zh_cn": "陈君豪, 梁思桦",
+      "en": "Howe Chen, Joshua Leung"
+    },
+    "vocalist": {
+      "zh_cn": "阿密特"
+    },
+    "album": {
+      "zh_tw": "阿密特2",
+      "en": "AMIT 2"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "气球+小狗=怪兽!",
+    "zh_tw": "氣球+小狗=怪獸!",
+    "en": "Ballons + Puppy=Monster!",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "气球+小狗=怪兽!",
+      "zh_tw": "氣球+小狗=怪獸!",
+      "en": "Ballons + Puppy=Monster!"
+    },
+    "intro": {
+      "zh_cn": "狗叫采样：边牧歪宝。2024-05-07 上架音频，2024-05-31于《Zerlina的地星聚会》舞台首演",
+      "zh_tw": "狗叫採樣：邊牧歪寶。2024-05-07 上架音頻，2024-05-31於《Zerlina的地星聚會》舞台首演",
+      "en": "Featuring dog bark samples from Border Collie Viper, the track was released on May 7, 2024, and had its live premiere at the 'Zerlina's Earth Party' stage on May 31."
+    },
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2153468842"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "流星没有目的地",
+    "zh_tw": "流星沒有目的地",
+    "en": "Meteors Without A Destination",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {
+      "en": "First performed on April 27, 2024, during the first stop of the 'Light Echo' Tour in Guangzhou",
+      "zh_cn": "首次演唱于 2024-04-27《光的回响》巡演首场广州站",
+      "zh_tw": "首次演唱於 2024-04-27《光的迴響》巡演首場廣州站\n"
+    },
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "蝴蝶泉边",
+    "zh_tw": "蝴蝶泉邊",
+    "en": "Side Of Butterfly Spring",
+    "lyricist": {
+      "zh_tw": "彭青",
+      "zh_cn": "彭青",
+      "en": "Sandee Peng"
+    },
+    "composer": {
+      "zh_cn": "彭青",
+      "zh_tw": "彭青",
+      "en": "Sandee Peng"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "黄雅莉"
+    },
+    "album": {
+      "zh_tw": "崽崽",
+      "zh_cn": "崽崽",
+      "en": "Little One"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "梦里花",
+    "zh_tw": "夢裡花",
+    "en": "Flower In The Wonderland",
+    "lyricist": {
+      "zh_tw": "吳易緯",
+      "zh_cn": "吴易纬",
+      "en": "Wu I-Wei"
+    },
+    "composer": {
+      "zh_cn": "小王子, 花轮",
+      "zh_tw": "小王子, 花輪",
+      "en": "The Little Prince, Hua Lun"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "张韶涵"
+    },
+    "album": {
+      "zh_tw": "夢裡花",
+      "zh_cn": "梦里花",
+      "en": "Flower In The Wonderland"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "刻在我心底的名字",
+    "zh_tw": "刻在我心底的名字",
+    "en": "Your Name Engraved Herein",
+    "lyricist": {
+      "zh_tw": "許媛婷, 佳旺, 陳文華",
+      "en": "Hooi Yuan-teng, Keon Chia, Boon Wah Tan",
+      "zh_cn": "许媛婷, 佳旺, 陈文华"
+    },
+    "composer": {
+      "zh_cn": "许媛婷, 佳旺, 陈文华",
+      "zh_tw": "許媛婷, 佳旺, 陳文華",
+      "en": "Hooi Yuan-teng, Keon Chia, Boon Wah Tan"
+    },
+    "arranger": {
+      "zh_tw": "黃雨勳",
+      "zh_cn": "黄雨勋",
+      "en": "Jason Huang"
+    },
+    "vocalist": {
+      "zh_cn": "卢广仲"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "禁止不开心",
+    "zh_tw": "禁止不開心",
+    "en": "Joy Is Mandatory",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "Red killer"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "禁止不开心",
+      "zh_tw": "禁止不開心",
+      "en": "Joy Is Mandatory"
+    },
+    "intro": {
+      "zh_tw": "2023-01-08季度MVP首次演唱並於網易雲音樂發布EP",
+      "zh_cn": "2023-01-08季度MVP首次演唱并于网易云发布EP",
+      "en": "First performed during the Quarterly MVP Stage on January 8, 2023, the track was later released as a digital EP on NetEase Music"
+    },
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2013383303"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "与君歌",
+    "zh_tw": "與君歌",
+    "en": "Song with You",
+    "lyricist": {
+      "zh_cn": "Yuki Huang",
+      "zh_tw": "Yuki Huang",
+      "en": "Yuki Huang"
+    },
+    "composer": {
+      "zh_cn": "HEERU"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "音乐剧《摇滚太白・诗与星》"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "出自音乐剧《摇滚太白・诗与星》",
+      "zh_tw": "出自音樂劇《搖滾太白・詩與星》",
+      "en": "From musical \"Taibai: the Starry Poem\""
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "Bilibala Boom 冲！",
+    "zh_tw": "Bilibala Boom 衝！",
+    "en": "Bilibala Boom Go!",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "吴海啸",
+      "zh_tw": "吳海嘯",
+      "en": "Tsunami"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "首次演唱于 2024-04-27《光的回响》巡演首场广州站",
+      "zh_tw": "首次演唱於 2024-04-27《光的迴響》巡演首場廣州站",
+      "en": "First performed on April 27, 2024, during the first stop of the 'Light Echo' Tour in Guangzhou"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=559709423"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2670877822"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "野草",
+    "zh_tw": "野草",
+    "en": "Wild Grass",
+    "lyricist": {
+      "zh_cn": "司南"
+    },
+    "composer": {
+      "zh_cn": "司南"
+    },
+    "arranger": {
+      "zh_cn": "陈宸江",
+      "zh_tw": "陳宸江",
+      "en": "Chen Chenjiang"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "野草",
+      "zh_tw": "野草",
+      "en": "Wild Grass"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2685941554"
+      }
+    ],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "飞蛾扑水",
+    "zh_tw": "飛蛾撲水",
+    "en": "Moths to Water",
+    "lyricist": {
+      "zh_cn": "司南"
+    },
+    "composer": {
+      "zh_cn": "司南"
+    },
+    "arranger": {
+      "zh_cn": "陈宸江",
+      "zh_tw": "陳宸江",
+      "en": "Chen Chenjiang"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "野草",
+      "zh_tw": "野草",
+      "en": "Wild Grass"
+    },
+    "intro": {
+      "zh_cn": "于2025北京国际电影节活动首次Live演唱",
+      "zh_tw": "於2025北京國際電影節活動首次Live演唱",
+      "en": "Live debut at the 2025 Beijing International Film Festival"
+    },
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2685941107"
+      }
+    ],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "迷雾",
+    "zh_tw": "迷霧",
+    "en": "Mist",
+    "lyricist": {
+      "zh_cn": "元绮",
+      "zh_tw": "元綺",
+      "en": "Yuan Qi"
+    },
+    "composer": {
+      "zh_cn": "元绮",
+      "zh_tw": "元綺",
+      "en": "Yuan Qi"
+    },
+    "arranger": {
+      "zh_cn": "陈宸江",
+      "zh_tw": "陳宸江",
+      "en": "Chen Chenjiang"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "野草",
+      "zh_tw": "野草",
+      "en": "Wild Grass"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2692351281"
+      }
+    ],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "玩偶(Doll)",
+    "zh_tw": "玩偶(Doll)",
+    "en": "Doll",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "祝一可"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "沉默违规",
+    "zh_tw": "沉默違規",
+    "en": "Silence Violation",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "Scorpion",
+      "zh_tw": "Scorpion",
+      "en": "Scorpion"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "自证危机"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=588176107"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "娘子军",
+    "zh_tw": "娘子軍",
+    "en": "Women's Legion",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "娘子军",
+      "zh_tw": "娘子軍",
+      "en": "Women's Legion"
+    },
+    "intro": {
+      "zh_cn": "2024-10-19《光的回响》巡演成都场首次演唱",
+      "zh_tw": "2024-10-19《光的迴響》巡演成都場首次演唱",
+      "en": "First performed on October 19, 2024, during the Chengdu stop of the 'Light Echo' Tour"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=604981075"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "永远在一起",
+    "zh_tw": "永遠在一起",
+    "en": "Together Forever",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "镜渊MirrorGlass",
+    "zh_tw": "鏡淵MirrorGlass",
+    "en": "Mirror Glass",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "王允宸"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "镜渊MirrorGlass"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=584863045"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "自己按门铃自己听",
+    "zh_tw": "自己按門鈴自己聽",
+    "en": "Ring the Doorbell and Listen By Myself",
+    "lyricist": {
+      "zh_cn": "高晓松, 尹约",
+      "en": "Gao Xiaosong, Yin Yue",
+      "zh_tw": "高曉松, 尹約"
+    },
+    "composer": {
+      "zh_cn": "高晓松",
+      "zh_tw": "高曉松",
+      "en": "Gao Xiaosong"
+    },
+    "arranger": {
+      "zh_cn": "栾卓忻",
+      "zh_tw": "欒卓忻",
+      "en": "Shien Lewan"
+    },
+    "vocalist": {
+      "zh_cn": "周深"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "INFP-失控",
+    "zh_tw": "INFP-失控",
+    "en": "INFP- Out of Control",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "李宗驰"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "INFP-失控"
+    },
+    "intro": {
+      "zh_cn": "2024-09-28《一万元舞台》现场演出暨节目录制首次演唱",
+      "zh_tw": "2024-09-28騰訊《一萬元舞台》現場演出暨節目錄製首次演唱",
+      "en": "Debuted at the recording of Tencent Video's music show 10,000 Yuan Stage on September 28, 2024"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=524818527"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2635718554"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "骑士・传颂歌谣",
+    "zh_tw": "騎士・傳頌歌謠（PV）",
+    "en": "Knight's Ballad (PV)",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "鹿柯的宁叔",
+      "zh_tw": "鹿柯的寧叔",
+      "en": "Lu Ke De Ning Shu"
+    },
+    "arranger": {
+      "zh_cn": "晗熙",
+      "zh_tw": "晗熙",
+      "en": "Han Xi"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "骑士・传颂歌谣"
+    },
+    "intro": {
+      "zh_cn": "2024-04-27《光的回响》巡演首场广州站PV首次播放，同月29日于网易云上架音源",
+      "zh_tw": "2024-04-27《光的迴響》巡演首場廣州站PV首次播放，同月29日於網易雲音樂上架音源",
+      "en": "The PV for the first stop of the 'Light Echo' Tour (Guangzhou) premiered on April 27, 2024, followed by the official digital release on NetEase Music on April 29"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=649042335&songtype=0#webchat_redirect"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2150747146"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "删情",
+    "zh_tw": "刪情",
+    "en": "Erasing Intimacy",
+    "lyricist": {
+      "zh_cn": "戴彦杭"
+    },
+    "composer": {
+      "zh_cn": "戴彦杭"
+    },
+    "arranger": {
+      "zh_cn": "刘晓光",
+      "zh_tw": "劉曉光",
+      "en": "Liu Xiao-Guang"
+    },
+    "vocalist": {
+      "zh_cn": "蒋芸"
+    },
+    "album": {
+      "zh_cn": "无悔少年",
+      "zh_tw": "無悔少年",
+      "en": "無悔少年"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "野人",
+    "zh_tw": "野人",
+    "en": "Wild Man",
+    "lyricist": {
+      "zh_tw": "鄭志宏",
+      "zh_cn": "郑志宏",
+      "en": "Zheng Zhihong"
+    },
+    "composer": {
+      "zh_tw": "鄭志宏",
+      "zh_cn": "郑志宏",
+      "en": "Zheng Zhihong"
+    },
+    "arranger": {
+      "zh_tw": "張相楠",
+      "zh_cn": "张相楠",
+      "en": "Zhang Xiangnan"
+    },
+    "vocalist": {
+      "zh_cn": "孟维来"
+    },
+    "album": {
+      "zh_tw": "野人",
+      "en": "Wild Man"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "跳楼机",
+    "zh_tw": "跳樓機",
+    "en": "Jumping Machine",
+    "lyricist": {
+      "zh_cn": "姜洄",
+      "zh_tw": "姜洄",
+      "en": "Jiang Hui"
+    },
+    "composer": {
+      "zh_cn": "鹿柯的宁叔"
+    },
+    "arranger": {
+      "zh_tw": " 卡其漠羅洋, 王灝",
+      "zh_cn": " 卡其漠羅洋, 王灏",
+      "en": "Ka Qu Mo Luo Yang, Wang Hao"
+    },
+    "vocalist": {
+      "zh_cn": "LBI利比"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "自证危机",
+    "zh_tw": "自證危機",
+    "en": "Crisis of Self-fulfilling Prophecy",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "李宗驰"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "自证危机"
+    },
+    "intro": {
+      "zh_cn": "2024-05-11《光的回响》巡演郑州站首次演唱",
+      "zh_tw": "2024-05-11《光的迴響》巡演鄭州站首次演唱",
+      "en": "First performed on May 11, 2024, during the Zhengzhou stop of the 'Light Echo' Tour."
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=588176180"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "Lolly",
+    "zh_tw": "Lolly",
+    "en": "Lolly",
+    "lyricist": {
+      "zh_cn": ""
+    },
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "还呼吸着就别放手",
+    "zh_tw": "還呼吸著就別放手",
+    "en": "Hold On While Breathing",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "卡尔通"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=358100366"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=1862102670"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "那些你很冒险的梦",
+    "zh_tw": "那些你很冒險的夢",
+    "en": "Those Were The Days",
+    "lyricist": {
+      "zh_cn": "王雅君",
+      "zh_tw": "王雅君",
+      "en": "Tina Wang"
+    },
+    "composer": {
+      "zh_cn": "林俊杰"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "林俊杰"
+    },
+    "album": {
+      "zh_tw": "學不會",
+      "zh_cn": "学不会",
+      "en": "Lost N Found"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "修炼爱情",
+    "zh_tw": "修煉愛情",
+    "en": "Practice Love",
+    "lyricist": {
+      "zh_cn": "易家扬",
+      "zh_tw": "易家揚",
+      "en": "Kevin Yi"
+    },
+    "composer": {
+      "zh_cn": "林俊杰"
+    },
+    "arranger": {
+      "zh_tw": "吳慶隆",
+      "zh_cn": "吴庆隆",
+      "en": "Goh Kheng Long"
+    },
+    "vocalist": {
+      "zh_cn": "林俊杰"
+    },
+    "album": {
+      "zh_cn": "因你而在",
+      "zh_tw": "因你而在",
+      "en": "Stories Untold"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "心墙",
+    "zh_tw": "心牆",
+    "en": "Heart Wall",
+    "lyricist": {
+      "zh_tw": "姚若龍",
+      "zh_cn": "姚若龙",
+      "en": "Daryl Yao"
+    },
+    "composer": {
+      "zh_cn": "林俊杰"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "林采欣"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "天草演唱的应是作曲者林俊杰自己演绎的版本",
+      "zh_tw": "天草演唱的應是作曲者林俊傑自己演繹的版本",
+      "en": "The version performed by SkyGrass is likely a cover based on the composer JJ Lin's own rendition of the song"
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Always Online",
+    "zh_tw": "Always Online",
+    "en": "Always Online",
+    "lyricist": {
+      "zh_tw": "林怡鳳",
+      "zh_cn": "林怡凤",
+      "en": "Yvonne Lin"
+    },
+    "composer": {
+      "zh_cn": "林俊杰"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "林俊杰"
+    },
+    "album": {
+      "zh_cn": "JJ陸",
+      "zh_tw": "JJ陸",
+      "en": "Sixology"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "交换余生",
+    "zh_tw": "交換餘生",
+    "en": "No Turning Back",
+    "lyricist": {
+      "zh_cn": "易家扬"
+    },
+    "composer": {
+      "zh_tw": "",
+      "zh_cn": "林俊杰",
+      "en": ""
+    },
+    "arranger": {
+      "zh_cn": "简道生, 蔡政勋",
+      "zh_tw": "簡道生, 蔡政勳",
+      "en": "Dawson Chien, Andy Tsai"
+    },
+    "vocalist": {
+      "zh_cn": "林俊杰"
+    },
+    "album": {
+      "zh_tw": "倖存者・如你",
+      "en": "Drifter・Like You Do"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "关键词",
+    "zh_tw": "關鍵詞",
+    "en": "The Key",
+    "lyricist": {
+      "zh_cn": "林怡凤"
+    },
+    "composer": {
+      "zh_cn": "林俊杰"
+    },
+    "arranger": {
+      "zh_cn": "吴庆隆"
+    },
+    "vocalist": {
+      "zh_cn": "林俊杰"
+    },
+    "album": {
+      "zh_cn": "和自己对话",
+      "zh_tw": "和自己對話",
+      "en": "From M.E. To Myself"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "她说",
+    "zh_tw": "她說",
+    "en": "She Says",
+    "lyricist": {
+      "zh_cn": "孙燕姿"
+    },
+    "composer": {
+      "zh_cn": "林俊杰"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "林俊杰"
+    },
+    "album": {
+      "zh_tw": "她說",
+      "en": "She Says"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "握不住的光",
+    "zh_tw": "握不住的光",
+    "en": "Uncatchable Light",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "张川溶K@ALLK STUDIO",
+      "zh_tw": "張川溶K@ALLK STUDIO",
+      "en": "K@ALLK STUDIO"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "自证危机"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=588176215"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "未来还未来",
+    "zh_tw": "未來還未來",
+    "en": "The Future Is Yet to Come",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {
+      "en": "First performed on October 19, 2024, during the Chengdu stop of the 'Light Echo' Tour",
+      "zh_tw": "2024-10-19《光的迴響》巡演成都站首次演唱",
+      "zh_cn": "2024-10-19《光的回响》巡演成都站首次演唱"
+    },
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "反派角色",
+    "zh_tw": "反派角色",
+    "en": "Villain",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "余竑龙",
+      "zh_tw": "余竑龍",
+      "en": "Red Dragon"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "光的回响",
+      "zh_tw": "光的迴響",
+      "en": "Light Echo"
+    },
+    "intro": {
+      "zh_cn": "首次演唱于2023-10-27 首场个人live",
+      "zh_tw": "首次演唱於2023-10-27 首場個人live",
+      "en": "First performed on October 27, 2023, during her first solo live concert"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=489414107"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2156118232"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "你是拯救过我盛夏的光",
+    "zh_tw": "你是拯救過我盛夏的光",
+    "en": "You're the Light that Saved My High Summer",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "卡尔通"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "你是拯救过我盛夏的光",
+      "zh_tw": "你是拯救過我盛夏的光",
+      "en": "You're the Light that Saved My High Summer"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=1952140092"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "棋逢山河",
+    "zh_tw": "棋逢山河",
+    "en": "Chess Game Amidst Grandeur",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "溺亡Drowned",
+    "zh_tw": "溺亡Drowned",
+    "en": "Drowned",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "Ounce_X",
+      "zh_tw": "Ounce_X",
+      "en": "Ounce_X"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "光的回响",
+      "zh_tw": "光的迴響",
+      "en": "Light Echo"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=644724033"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=1987682587"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "梦魇回响",
+    "zh_tw": "夢魘迴響",
+    "en": "Echoes of a Nightmare",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "SOULFRESH BEATS",
+      "zh_tw": "SOULFRESH BEATS",
+      "en": "SOULFRESH BEATS"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "光的回响",
+      "zh_tw": "光的迴響",
+      "en": "Light Echo"
+    },
+    "intro": {
+      "zh_tw": "首次演唱於2023-10-27 首場個人live",
+      "zh_cn": "首次演唱于2023-10-27 首场个人live",
+      "en": "First performed on October 27, 2023, during her first solo live concert"
+    },
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2156136995"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "恶人是我",
+    "zh_tw": "惡人是我",
+    "en": "The Villain is Me",
+    "lyricist": {
+      "zh_cn": "雨狸"
+    },
+    "composer": {
+      "zh_cn": "李冲",
+      "zh_tw": "李沖",
+      "en": "Li Chong"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "洛天依, 乐正绫"
+    },
+    "album": {},
+    "intro": {
+      "zh_tw": "本曲由雨狸於2019-10-31投稿至嗶哩嗶哩站，是由虛擬歌手洛天依與樂正綾演唱的VOCALOID中文原創歌曲，被列為殿堂曲",
+      "zh_cn": "本曲由雨狸于2019-10-31投稿至哔哩哔哩站，是由虚拟歌手洛天依与乐正绫演唱的VOCALOID中文原创歌曲，被列为殿堂曲",
+      "en": "Submitted to Bilibili by Yu Li on October 31, 2019, this is a VOCALOID Chinese original song performed by virtual singers Luo Tianyi and Yuezhengling, and has been officially recognized as a \"Palace-tier Song\" (Hall of Fame)"
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "追光＋耳边",
+    "zh_tw": "追光＋耳邊",
+    "en": "Pursuing the Light + By One's Ear",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=1976114724"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "何以自Chat",
+    "zh_tw": "何以自Chat",
+    "en": "How to Self-Converse",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "4Hunnid"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "光的回响",
+      "zh_tw": "光的迴響",
+      "en": "Light Echo"
+    },
+    "intro": {
+      "zh_cn": "首次演唱於2023-10-27 首场个人live",
+      "zh_tw": "首次演唱於2023-10-27 首場個人live",
+      "en": "First performed on October 27, 2023, during her first solo live concert"
+    },
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2156602137"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "奇迹之光",
+    "zh_tw": "奇蹟之光",
+    "en": "Miraculous Light",
+    "lyricist": {
+      "en": "Lin Qiao",
+      "zh_cn": "林乔",
+      "zh_tw": "林喬"
+    },
+    "composer": {
+      "zh_tw": "鄭宇辰",
+      "zh_cn": "郑宇辰",
+      "en": "ORio Cheng"
+    },
+    "arranger": {
+      "zh_cn": "郑宇辰",
+      "zh_tw": "鄭宇辰",
+      "en": "ORio Cheng"
+    },
+    "vocalist": {
+      "zh_cn": "844乐队"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "断线",
+    "zh_tw": "斷線",
+    "en": "Broken Strings",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "戴彦杭",
+      "zh_tw": "戴彥杭",
+      "en": "Henry Dai"
+    },
+    "arranger": {
+      "zh_tw": "李宗馳"
+    },
+    "vocalist": {
+      "zh_cn": "蒋芸"
+    },
+    "album": {
+      "zh_cn": "无悔少年",
+      "zh_tw": "無悔少年"
+    },
+    "intro": {
+      "zh_cn": "本曲又名\"断线人偶的未来\"",
+      "zh_tw": "本曲又名\"斷線人偶的未來\"",
+      "en": "A.K.A. \"Future of the Broken Marionette\""
+    },
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "圈圈点点圈圈点点圈圈点点?",
+    "zh_tw": "圈圈點點圈圈點點圈圈點點?",
+    "en": "Circles and Dots?",
+    "lyricist": {
+      "zh_cn": "T2o"
+    },
+    "composer": {
+      "zh_cn": "T2o"
+    },
+    "arranger": {
+      "zh_cn": "T2o"
+    },
+    "vocalist": {
+      "zh_cn": "洛天依"
+    },
+    "album": {},
+    "intro": {
+      "zh_tw": "VOCALOID中文殿堂曲，由T2o創作並於2015上傳至嗶哩嗶哩的原創歌曲，是作者發表的第一首VOCALOID原創曲",
+      "zh_cn": "VOCALOID中文殿堂曲，由T2o创作并于2015上传至哔哩哔哩的原创歌曲，是作者发表的第一首VOCALOID原创曲",
+      "en": "A VOCALOID Chinese Palace-tier song, this original track was created by T2o and uploaded to Bilibili in 2015. It marks the composer's very first VOCALOID original release"
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "椰子拿铁",
+    "zh_tw": "椰子拿鐵",
+    "en": "Everything Has A Price",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "LusciousBB"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_tw": "生椰拿鐵",
+      "en": "Coconut Latte"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=1941135349"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "白矮星终将燃尽",
+    "zh_tw": "白矮星終將燃盡",
+    "en": "The White Dwarf Will Eventually Burn Out",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "Red killer",
+      "zh_tw": "Red killer",
+      "en": "Red killer"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "本曲又名\"白矮星终将燃烬，但别遗忘\"，常被简称\"白矮星\"",
+      "zh_tw": "本曲又名\"白矮星終將燃燼，但別遺忘\"，常被簡稱\"白矮星\"",
+      "en": "A.K.A. \"White Dwarfs Will Fade, but Never Forget\", Often shortened to \"White Dwarf\""
+    },
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "灯塔与孤舟",
+    "zh_tw": "燈塔與孤舟",
+    "en": "Lighthouse and Lone Boat",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "余竑龙",
+      "zh_tw": "余竑龍",
+      "en": "Red Dragon"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰",
+      "zh_tw": "李宗馳",
+      "en": "Lucius Li"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "光的回响",
+      "zh_tw": "光的迴響",
+      "en": "Light Echo"
+    },
+    "intro": {
+      "en": "First performed on October 27, 2023, during her first solo live concert",
+      "zh_cn": "首次演唱于2023-10-27 首场个人live",
+      "zh_tw": "首次演唱於2023-10-27 首場個人live"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=490891923&songtype=0#webchat_redirect"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2156633428"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "写给追光的少年",
+    "zh_tw": "寫給追光的少年",
+    "en": "To the Youth in Pursuit of Light",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "HKT",
+      "zh_tw": "HKT",
+      "en": "HKT"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "写给追光的少年"
+    },
+    "intro": {
+      "zh_cn": "首次演唱于2023-03-25年度MVP《魔女的叙咏调》",
+      "zh_tw": "首次演唱於2023-03-25年度MVP《魔女的敘詠調》",
+      "en": "First performed on March 25, 2023, during the 'The Witch's Arioso' Annual MVP Special Performance"
+    },
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2036967435"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "无悔少年",
+    "zh_tw": "無悔少年",
+    "en": "Youth with No Regrets",
+    "lyricist": {
+      "zh_cn": "陈婧菲",
+      "zh_tw": "陳婧菲",
+      "en": "Jingfei Chen"
+    },
+    "composer": {
+      "zh_cn": "王禹鑫, 范高铭",
+      "zh_tw": "王禹鑫, 范高銘",
+      "en": "Wang Yuxin, Fan Gaoming"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "蒋芸"
+    },
+    "album": {
+      "zh_cn": "无悔少年",
+      "zh_tw": "無悔少年",
+      "en": "Youth with No Regrets"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "自我保护",
+    "zh_tw": "自我保護",
+    "en": "Self-preservation",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "卡尔通"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=1906404619"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "人间清醒",
+    "zh_tw": "人間清醒",
+    "en": "Clear-headed",
+    "lyricist": {
+      "zh_cn": "郭德紫毅"
+    },
+    "composer": {
+      "zh_cn": "李宗驰"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰"
+    },
+    "vocalist": {
+      "zh_cn": "蒋芸"
+    },
+    "album": {
+      "zh_cn": "無悔少年",
+      "zh_tw": "無悔少年",
+      "en": "Youth with No Regrets"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "噬光者与发光体",
+    "zh_tw": "噬光者與發光體",
+    "en": "The Light-Eater and the Luminous Body",
+    "lyricist": {
+      "zh_cn": "雨狸"
+    },
+    "composer": {
+      "zh_cn": "烂兔子",
+      "zh_tw": "爛兔子",
+      "en": "Bad TozZ"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "洛天依, 乐正绫"
+    },
+    "album": {},
+    "intro": {
+      "zh_tw": "此為根據VOCALOID中文原創歌曲《噬光者與發光體的愛情》改編的版本，由原詞作雨狸微調歌詞。原歌曲於2021年發布，為VOCALOID中文殿堂曲",
+      "zh_cn": "此为根据VOCALOID中文原创歌曲《噬光者与发光体的爱情》改编的版本，由原词作雨狸微调歌词。原歌曲于2021年发布，为VOCALOID中文殿堂曲",
+      "en": "This version is an adaptation of the VOCALOID Chinese original song \"The Love Between a Light-Eater and a Luminous Body,\" with lyrics slightly adjusted by the original lyricist, Yu Li. The original track was released in 2021 and is recognized as a VOCALOID Chinese Palace-tier song"
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "单线梦境",
+    "zh_tw": "單線夢境",
+    "en": "Linear Dream",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "ATTStudio柱子"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "机尾云(ひこうき雲)",
+    "zh_tw": "機尾雲(ひこうき雲)",
+    "en": "Vapor Trail(Hikouki Gumo)",
+    "lyricist": {
+      "zh_tw": "秋元康",
+      "zh_cn": "秋元康",
+      "en": "Akimoto Yasushi"
+    },
+    "composer": {
+      "zh_tw": "成瀨英樹",
+      "zh_cn": "成濑英树",
+      "en": "Naruse Hideki"
+    },
+    "arranger": {
+      "zh_tw": "野中\"MASA\"雄一",
+      "zh_cn": "野中\"MASA\"雄一",
+      "en": "Yuichi \"Masa\" Nonaka"
+    },
+    "vocalist": {
+      "zh_cn": "AKB48 Team A"
+    },
+    "album": {
+      "zh_cn": "Team A 5th Stage\"恋爱禁止条例\"",
+      "zh_tw": "Team A 5th Stage「戀愛禁止條例」",
+      "en": "Team A 5th Stage Renai Kinshi Jourei"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "耳边",
+    "zh_tw": "耳邊",
+    "en": "By One's Ear",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "耳边",
+      "zh_tw": "耳邊",
+      "en": "By One's Ear"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=1976114724"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "宇宙灯球",
+    "zh_tw": "宇宙燈球",
+    "en": "Mirrorball Disco",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "星云少女"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "乌鸦谎话",
+    "zh_tw": "烏鴉謊話",
+    "en": "Crow Lies",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "Red Killer"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "光的回响",
+      "zh_tw": "光的迴響",
+      "en": "Light Echo"
+    },
+    "intro": {
+      "zh_cn": "2023-02-16打歌舞台决赛首次演唱并于网易云音乐发布EP，后收录于\"光的回响\"专辑",
+      "zh_tw": "2023-02-16打歌舞台決賽首次演唱並於網易雲音樂發佈EP，後收錄於\"光的回響\"專輯",
+      "en": "Debuted at the Center Stage finale on February 16, 2023, the song was initially released as an EP on NetEase Music and later included in the album \"Light Echo\""
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=490006545&songtype=0#webchat_redirect"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2156140169"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "迷途无归Stray",
+    "zh_tw": "迷途無歸Stray",
+    "en": "Stray",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "LusciousBB",
+      "zh_tw": "LusciousBB",
+      "en": "LusciousBB"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "光的回响",
+      "zh_tw": "光的迴響",
+      "en": "Light Echo"
+    },
+    "intro": {
+      "zh_cn": "2022-03-04于2021年度MVP公布仪式首次演唱",
+      "zh_tw": "2022-03-04於2021年度MVP公佈儀式首次演唱",
+      "en": "First performed on March 4, 2022, during the 2021 Annual MVP Announcement Ceremony"
+    },
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=2156131573"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "那些我恐惧至极的事",
+    "zh_tw": "那些我恐懼至極的事",
+    "en": "All Those Things That I Am So Afraid Of",
+    "lyricist": {
+      "zh_cn": "雨狸"
+    },
+    "composer": {
+      "zh_cn": "崩坏Sovietsy",
+      "zh_tw": "崩壞Sovietsy",
+      "en": "Sovietsy"
+    },
+    "arranger": {
+      "zh_cn": "崩坏Sovietsy",
+      "zh_tw": "崩壞Sovietsy",
+      "en": "Sovietsy"
+    },
+    "vocalist": {
+      "zh_cn": "洛天依, 乐正绫"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "VOCALOID中文原创歌曲，于2020年發布，是\"VividCycle Project\"（时序绚乱）系列作品的第三作，聚焦于“成长”主题",
+      "zh_tw": "VOCALOID中文原創歌曲，於2020年發布，是「VividCycle Project」（時序絢亂）系列作品的第三作，聚焦於“成長”主題",
+      "en": "A VOCALOID Chinese original song released in 2020, this is the third work in the \"VividCycle Project\" series, focusing on the theme of \"growth\""
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "太阳",
+    "zh_tw": "太陽",
+    "en": "The Sun",
+    "lyricist": {
+      "zh_cn": "邱振哲"
+    },
+    "composer": {
+      "zh_cn": "邱振哲"
+    },
+    "arranger": {
+      "zh_tw": "陳啟天",
+      "zh_cn": "陈启天",
+      "en": "Sky Chen"
+    },
+    "vocalist": {
+      "zh_cn": "邱振哲"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "阿拉斯加海湾",
+    "zh_tw": "阿拉斯加海灣",
+    "en": "Gulf of Alaska",
+    "lyricist": {
+      "zh_cn": "菲道尔, 李康宁",
+      "zh_tw": "菲道爾, 李康寧",
+      "en": "Firdhaus, Cory Lee"
+    },
+    "composer": {
+      "zh_cn": "菲道尔"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "菲道尔"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "胆小的勇敢",
+    "zh_tw": "膽小的勇敢",
+    "en": "Timid Bravery",
+    "lyricist": {
+      "zh_cn": "仓雁彬",
+      "zh_tw": "倉雁彬",
+      "en": "Cang Yanbin"
+    },
+    "composer": {
+      "zh_cn": "仓雁彬",
+      "zh_tw": "倉雁彬",
+      "en": "Cang Yanbin"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "丛浩楠"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "那女孩对我说",
+    "zh_tw": "那女孩對我說",
+    "en": "That Girl Said to Me",
+    "lyricist": {
+      "zh_cn": "易家扬"
+    },
+    "composer": {
+      "zh_cn": "李偲菘",
+      "zh_tw": "李偲菘",
+      "en": "Peter Lee"
+    },
+    "arranger": {
+      "zh_cn": "Adam Lee",
+      "zh_tw": "Adam Lee",
+      "en": "Adam Lee"
+    },
+    "vocalist": {
+      "zh_cn": "黄义达"
+    },
+    "album": {
+      "zh_cn": "专属密码",
+      "zh_tw": "專屬密碼",
+      "en": "Exclusive Code"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "尘埃",
+    "zh_tw": "塵埃",
+    "en": "Dust",
+    "lyricist": {
+      "zh_cn": "木兰号AKA陈韦伶",
+      "zh_tw": "木蘭號AKA陳韋伶",
+      "en": "Chen Weiling"
+    },
+    "composer": {
+      "zh_cn": "木兰号AKA陈韦伶",
+      "zh_tw": "木蘭號AKA陳韋伶",
+      "en": "Mulan Hao (AKA Chen Wei-Ling)"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "家家"
+    },
+    "album": {
+      "zh_cn": "为你的寂寞唱歌",
+      "zh_tw": "為你的寂寞唱歌",
+      "en": "Along the Way"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "New Boy",
+    "zh_tw": "New Boy",
+    "en": "New Boy",
+    "lyricist": {
+      "zh_cn": "朴树"
+    },
+    "composer": {
+      "zh_cn": "朴树"
+    },
+    "arranger": {
+      "zh_cn": "张亚东",
+      "zh_tw": "張亞東",
+      "en": "Zhang Yadong"
+    },
+    "vocalist": {
+      "zh_cn": "朴树"
+    },
+    "album": {
+      "zh_cn": "我去2000年",
+      "zh_tw": "我去2000年",
+      "en": "I Visit the Year 2000"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "擒光",
+    "zh_tw": "擒光",
+    "en": "Catching the Light",
+    "lyricist": {
+      "zh_cn": "易家扬"
+    },
+    "composer": {
+      "zh_cn": "孙燕姿, Kenn C",
+      "zh_tw": "孫燕姿, Kenn C",
+      "en": "Sun Yanzi, Kenn C"
+    },
+    "arranger": {
+      "zh_cn": "Kenn C, WeiLiang Sim",
+      "zh_tw": "Kenn C, WeiLiang Sim",
+      "en": "Kenn C, WeiLiang Sim"
+    },
+    "vocalist": {
+      "zh_cn": "孙燕姿"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "那些花儿",
+    "zh_tw": "那些花兒",
+    "en": "Those Flowers",
+    "lyricist": {
+      "zh_cn": "朴树"
+    },
+    "composer": {
+      "zh_cn": "朴树"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "朴树"
+    },
+    "album": {
+      "en": "I Visit the Year 2000",
+      "zh_tw": "我去2000年"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "如果这就是爱情",
+    "zh_tw": "如果這就是愛情",
+    "en": "If This Is Love",
+    "lyricist": {
+      "zh_cn": "阿弟仔 ",
+      "zh_tw": "阿弟仔 ",
+      "en": "Adia"
+    },
+    "composer": {
+      "zh_cn": "阿弟仔 ",
+      "zh_tw": "阿弟仔 ",
+      "en": "Adia"
+    },
+    "arranger": {
+      "zh_cn": "廖伟杰",
+      "zh_tw": "廖偉傑",
+      "en": "Jie Liao"
+    },
+    "vocalist": {
+      "zh_cn": "张靓颖"
+    },
+    "album": {
+      "zh_tw": "我相信",
+      "en": "Believe In Jane"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "怪美的",
+    "zh_tw": "怪美的",
+    "en": "Ugly Beauty",
+    "lyricist": {
+      "zh_tw": "吳青峰",
+      "zh_cn": "吴青峰",
+      "en": "Qing Feng Wu"
+    },
+    "composer": {
+      "zh_tw": "蔡依林, 陳星翰, 楊宥閑, 瑞斯・佛列契, 理查・克萊克",
+      "zh_cn": "蔡依林, 陈星翰, 杨宥闲, 瑞斯・弗莱彻, 理查德・克雷克",
+      "en": "Jolin Tsai, Star Chen, Stan Dubb, Rhys Fletcher, Richard Crake"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "蔡依林"
+    },
+    "album": {
+      "zh_cn": "怪美的",
+      "zh_tw": "怪美的",
+      "en": "Ugly Beauty"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "好想爱这个世界啊",
+    "zh_tw": "好想愛這個世界啊",
+    "en": "I Really Want to Love This World",
+    "lyricist": {
+      "zh_tw": "裴育",
+      "zh_cn": "裴育",
+      "en": "Pei Yu"
+    },
+    "composer": {
+      "zh_cn": "华晨宇"
+    },
+    "arranger": {
+      "zh_tw": "鄭楠",
+      "zh_cn": "郑楠",
+      "en": "Bernard Zheng"
+    },
+    "vocalist": {
+      "zh_cn": "华晨宇"
+    },
+    "album": {
+      "zh_cn": "新世界NEW WORLD",
+      "zh_tw": "新世界NEW WORLD",
+      "en": "NEW WORLD"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "羊角花又开",
+    "zh_tw": "羊角花又開",
+    "en": "Shofar Blooms Again",
+    "lyricist": {
+      "zh_tw": "梁天山",
+      "zh_cn": "梁天山",
+      "en": "Liang Tianshan"
+    },
+    "composer": {
+      "zh_tw": "陳輝權",
+      "zh_cn": "陈辉权",
+      "en": "Freeking"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "刘惜君"
+    },
+    "album": {
+      "zh_cn": "拂晓",
+      "zh_tw": "拂曉",
+      "en": "Dawn"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "谪仙赋",
+    "zh_tw": "謫仙賦",
+    "en": "Ode to the Banished Immortal",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "2024-08-03《摇滚太白・诗与星》夏日旅行音乐会重庆场首日首次演唱",
+      "zh_tw": "2024-08-03《搖滾太白・詩與星》夏日旅行音樂會重慶場首日首次演唱",
+      "en": "First performed on August 3, 2024, during the first day of the 'Taibai: The Starry Poem' Summer Travel Concert in Chongqing"
+    },
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "推开世界的门",
+    "zh_tw": "推開世界的門",
+    "en": "Through You",
+    "lyricist": {
+      "zh_tw": "火星電台・黃少峰",
+      "zh_cn": "火星电台・黄少峰",
+      "en": "RadioMars・Huang Shaofeng"
+    },
+    "composer": {
+      "zh_tw": "火星電台・黃少峰",
+      "en": "RadioMars・Zeng Yu",
+      "zh_cn": "火星电台・黄少峰"
+    },
+    "arranger": {
+      "zh_tw": "火星電台・曾宇",
+      "zh_cn": "火星电台・曾宇",
+      "en": "RadioMars・Zeng Yu"
+    },
+    "vocalist": {
+      "zh_cn": "杨乃文"
+    },
+    "album": {
+      "zh_cn": "离心力",
+      "zh_tw": "離心力",
+      "en": "《Centrifugal Force"
+    },
+    "intro": {
+      "zh_tw": "先前天草曾在直播唱過由原作組合火星電台演唱的版本",
+      "zh_cn": "先前天草曾在直播唱过由原作组合火星电台演唱的版本",
+      "en": "SkyGrass had previously performed the version by the original composer group, RadioMars, during a live stream"
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "天涯",
+    "zh_tw": "天涯",
+    "en": "The End of Earth",
+    "lyricist": {
+      "zh_tw": "陳沒",
+      "zh_cn": "陈没",
+      "en": "Chen Mo"
+    },
+    "composer": {
+      "zh_tw": "中島美雪",
+      "zh_cn": "中岛美雪",
+      "en": "Miyuki Nakajima"
+    },
+    "arranger": {
+      "zh_tw": "蔡宗政",
+      "zh_cn": "蔡宗政",
+      "en": "Tsung-Cheng Tsai"
+    },
+    "vocalist": {
+      "zh_cn": "任贤齐"
+    },
+    "album": {
+      "zh_cn": "为爱走天涯",
+      "zh_tw": "為愛走天涯",
+      "en": "Desperate With Love"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "如今还是你",
+    "zh_tw": "如今還是你",
+    "en": "Still You Today",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {
+      "zh_tw": "2024-11-16《光的迴響》巡演西安站首次演唱",
+      "zh_cn": "2024-11-16《光的回响》巡演西安站首次演唱",
+      "en": "First performed on November 16, 2024, during the Xi'an stop of the 'Light Echo' Tour"
+    },
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "遥远的她",
+    "zh_tw": "遙遠的她",
+    "en": "She Is Far Away",
+    "lyricist": {
+      "zh_cn": "Yuki Huang"
+    },
+    "composer": {
+      "zh_cn": "HEERU"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "音乐剧《摇滚太白・诗与星》"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "海芋恋",
+    "zh_tw": "海芋戀",
+    "en": "Calla Lily Love",
+    "lyricist": {
+      "zh_tw": "十九筆",
+      "zh_cn": "十九笔",
+      "en": "Nineteen Strokes"
+    },
+    "composer": {
+      "zh_cn": "萧敬腾"
+    },
+    "arranger": {
+      "zh_tw": "郭偉聰",
+      "zh_cn": "郭伟聪",
+      "en": "Steven Kwok"
+    },
+    "vocalist": {
+      "zh_cn": "萧敬腾"
+    },
+    "album": {
+      "zh_cn": "蕭敬腾同名专辑",
+      "en": "Jam Hsiao Self-Titled Album",
+      "zh_tw": "蕭敬騰同名專輯"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "爱要坦荡荡",
+    "zh_tw": "愛要坦蕩蕩",
+    "en": "Love Should Be Open",
+    "lyricist": {
+      "zh_tw": "許常德",
+      "zh_cn": "许常德",
+      "en": "Adam Hsu"
+    },
+    "composer": {
+      "zh_cn": "Rungroth Pholwa",
+      "zh_tw": "Rungroth Pholwa",
+      "en": "Rungroth Pholwa"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "萧潇"
+    },
+    "album": {
+      "zh_cn": "Beautiful Angel",
+      "zh_tw": "Beautiful Angel",
+      "en": "Beautiful Angel"
+    },
+    "intro": {
+      "zh_tw": "改編自Palmy演唱的泰國歌曲《想要大聲唱》",
+      "zh_cn": "改编自Palmy演唱的泰国歌曲《想要大声唱》",
+      "en": "Adapted from the Thai song 'Yark Rong Dang Dang' (Wanna Sing Out Loud) performed by Palmy"
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "陪我长大",
+    "zh_tw": "陪我長大",
+    "en": "Accompany Me to Grow Up",
+    "lyricist": {
+      "zh_cn": "徐良",
+      "zh_tw": "徐良",
+      "en": "Xu Liang"
+    },
+    "composer": {
+      "zh_tw": "劉顏嘉",
+      "zh_cn": "刘颜嘉",
+      "en": "Liu Yanjia"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "段奥娟"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "别说破",
+    "zh_tw": "別說破",
+    "en": "Don't Break It",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "蒋芸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "只对你有感觉",
+    "zh_tw": "只對你有感覺",
+    "en": "Only Have Feelings for You",
+    "lyricist": {
+      "zh_tw": "張家瑋",
+      "zh_cn": "张家玮",
+      "en": "Chang Chia-Wei"
+    },
+    "composer": {
+      "zh_cn": "林俊杰"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "飞轮海ft. Hebe"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "别找我麻烦",
+    "zh_tw": "別找我麻煩",
+    "en": "Don't Bother Me",
+    "lyricist": {
+      "zh_cn": "蔡健雅"
+    },
+    "composer": {
+      "zh_cn": "蔡健雅"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "蔡健雅"
+    },
+    "album": {
+      "zh_cn": "说到爱",
+      "zh_tw": "說到愛",
+      "en": "Just Say So"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "辛徳瑞拉Cinderella",
+    "zh_tw": "辛徳瑞拉Cinderella",
+    "en": "Cinderella",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "Twelvv Choi@NUMBER K, French Hex(Decade +), cArgo(Decade +)"
+    },
+    "arranger": {
+      "zh_cn": "Twelvv Choi@NUMBER K"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "反副作用",
+    "zh_tw": "反副作用",
+    "en": "Against the Side Effects",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "山海",
+    "zh_tw": "山海",
+    "en": "Wayfarer",
+    "lyricist": {
+      "zh_cn": "草东没有派对"
+    },
+    "composer": {
+      "zh_cn": "草东没有派对"
+    },
+    "arranger": {
+      "zh_cn": "草东没有派对"
+    },
+    "vocalist": {
+      "zh_cn": "草东没有派对"
+    },
+    "album": {
+      "zh_tw": "丑奴儿",
+      "zh_tw": "醜奴兒",
+      "en": "The Servile"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "华夏巾帼志",
+    "zh_tw": "華夏巾幗誌",
+    "en": "Chronicles of Chinese Heroines",
+    "lyricist": {
+      "zh_cn": "雨狸"
+    },
+    "composer": {
+      "zh_cn": "依溪禾"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "洛天依, 乐正绫, 言和, 墨清弦",
+      "zh_tw": "洛天依, 樂正綾, 言和, 墨清弦",
+      "en": "Luo Tianyi, Yuezheng Ling, Yan He, Mo Qingxian"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "你是我的小狗狗You Are My Dog",
+    "zh_tw": "你是我的小狗狗You Are My Dog",
+    "en": "You Are My Dog",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "王允宸"
+    },
+    "arranger": {
+      "zh_cn": "张川溶K@ALLK STUDIO"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "克莱因瓶的假设"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=600008326"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "追光(阿卡贝拉版)",
+    "zh_tw": "追光(阿卡贝拉版)",
+    "en": "Pursuing the Light(a cappella)",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "卡尔通"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "触摸星河",
+    "zh_tw": "觸摸星河",
+    "en": "Touch the Galaxy",
+    "lyricist": {
+      "zh_cn": "Yuki Huang"
+    },
+    "composer": {
+      "zh_cn": "HEERU"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "音乐剧《摇滚太白・诗与星》"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "诗的生命",
+    "zh_tw": "詩的生命",
+    "en": "The Life of Poetry",
+    "lyricist": {
+      "zh_cn": "Yuki Huang"
+    },
+    "composer": {
+      "zh_cn": "HEERU"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "音乐剧《摇滚太白・诗与星》"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "雕刻月亮",
+    "zh_tw": "雕刻月亮",
+    "en": "Carving the Moon",
+    "lyricist": {
+      "zh_cn": "Yuki Huang"
+    },
+    "composer": {
+      "zh_cn": "HEERU"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "音乐剧《摇滚太白・诗与星》"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "蜀道难",
+    "zh_tw": "蜀道難",
+    "en": "Hard Roads in Shu",
+    "lyricist": {
+      "zh_cn": "Yuki Huang"
+    },
+    "composer": {
+      "zh_cn": "HEERU"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "音乐剧《摇滚太白・诗与星》"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "颠覆",
+    "zh_tw": "顛覆",
+    "en": "Subversion",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "NPD幸存者",
+    "zh_tw": "NPD倖存者",
+    "en": "NPD Survivor",
+    "lyricist": {
+      "zh_tw": "森琰, 逄博",
+      "zh_cn": "森琰, 逄博",
+      "en": "Sen Yan, Pang Bo"
+    },
+    "composer": {
+      "zh_cn": "逄博",
+      "zh_tw": "逄博",
+      "en": "Pang Bo"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "蒋芸"
+    },
+    "album": {
+      "zh_cn": "痊·愈",
+      "zh_tw": "痊·癒",
+      "en": "Recovery"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "迷迭香",
+    "zh_tw": "迷迭香",
+    "en": "Rosemary",
+    "lyricist": {
+      "zh_tw": "方文山",
+      "zh_cn": "方文山",
+      "en": "Vincent Fang"
+    },
+    "composer": {
+      "zh_cn": "周杰伦"
+    },
+    "arranger": {
+      "zh_tw": "鍾興民",
+      "zh_cn": "钟兴民",
+      "en": "Baby Chung"
+    },
+    "vocalist": {
+      "zh_cn": "周杰伦"
+    },
+    "album": {
+      "zh_tw": "依然范特西",
+      "en": "Still Fantasy"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Trouble Maker",
+    "zh_tw": "Trouble Maker",
+    "en": "Trouble Maker",
+    "lyricist": {
+      "zh_cn": "Rado, 新沙洞老虎, LE (EXID)",
+      "zh_tw": "Rado, 新沙洞老虎, LE (EXID)",
+      "en": "Rado, Shinsadong Tiger, LE (EXID)"
+    },
+    "composer": {
+      "zh_cn": "Rado, 新沙洞老虎",
+      "zh_tw": "Rado, 新沙洞老虎",
+      "en": "Rado, Shinsadong Tiger"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "张贤胜, 金泫雅"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "醉",
+    "zh_tw": "醉",
+    "en": "Intoxication",
+    "lyricist": {
+      "zh_tw": "宋陽",
+      "zh_cn": "宋阳",
+      "en": "Song Yang"
+    },
+    "composer": {
+      "zh_tw": "宋陽",
+      "zh_cn": "宋阳",
+      "en": "Song Yang"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "黄龄"
+    },
+    "album": {
+      "zh_cn": "醉",
+      "zh_tw": "醉",
+      "en": "Intoxication"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "雌蕊雄蕊夜之蝶(おしべとめしべと夜の蝶々)",
+    "zh_tw": "雌蕊雄蕊夜之蝶(おしべとめしべと夜の蝶々)",
+    "en": "The Stamen·the Pistil·and the Night Butterfly",
+    "lyricist": {
+      "zh_cn": "秋元康",
+      "zh_tw": "秋元康",
+      "en": "Yasushi Akimoto"
+    },
+    "composer": {
+      "zh_tw": "宮島律子",
+      "zh_cn": "宫岛律子",
+      "en": "Ritsuko Miyajima"
+    },
+    "arranger": {
+      "zh_tw": "野中\"MASA\"雄一, 田口智則, 稲留春雄",
+      "zh_cn": "野中\"MASA\"雄一, 田口智则, 稲留春雄",
+      "en": "Yuichi \"Masa\" Nonaka, Tomonori Taguchi, Haruo Inatome"
+    },
+    "vocalist": {
+      "zh_cn": "大堀惠, 河西智美",
+      "zh_tw": ""
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "恶作剧",
+    "zh_tw": "惡作劇",
+    "en": "Practical Joke",
+    "lyricist": {
+      "zh_cn": "王蓝茵"
+    },
+    "composer": {
+      "zh_cn": "王蓝茵"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王蓝茵"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "你曾是少年",
+    "zh_tw": "你曾是少年",
+    "en": "Wings of My Words",
+    "lyricist": {
+      "zh_cn": "肖洋",
+      "zh_tw": "肖洋",
+      "en": "Xiao Yang"
+    },
+    "composer": {
+      "zh_tw": "楊子樸",
+      "zh_cn": "杨子朴",
+      "en": "Venk Yang"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "S.H.E"
+    },
+    "album": {
+      "zh_cn": "你曾是少年",
+      "zh_tw": "你曾是少年",
+      "en": "Wings of My Words"
+    },
+    "intro": {
+      "zh_cn": "电影\"少年班\"主题曲",
+      "en": "Theme song for the movie \"The Ark Of Mr.Chow\"",
+      "zh_tw": "電影\"少年班\"主題曲"
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "狗狗减肥操",
+    "zh_tw": "狗狗減肥操",
+    "en": "Doggy Weight Loss Exercise",
+    "lyricist": {
+      "zh_tw": "張尚",
+      "zh_cn": "张尚",
+      "en": "Chang Shang"
+    },
+    "composer": {
+      "zh_tw": "黃麗星",
+      "zh_cn": "黄丽星",
+      "en": "ReiSei"
+    },
+    "arranger": {
+      "zh_tw": "涂惠元, 徐德昌, 周記",
+      "zh_cn": "涂惠元, 徐德昌, 周记",
+      "en": "Tu Hui-yuan, Te-chang Hsu, Chou Chi"
+    },
+    "vocalist": {
+      "zh_cn": "范晓萱"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Señorita",
+    "zh_tw": "Señorita",
+    "en": "Señorita",
+    "lyricist": {},
+    "composer": {
+      "zh_cn": ""
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "肖恩·蒙德兹, 卡米拉·卡贝洛"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "无名梦",
+    "zh_tw": "無名夢",
+    "en": "Nameless Dream",
+    "lyricist": {
+      "zh_cn": "郭德紫毅"
+    },
+    "composer": {
+      "zh_cn": "李宗驰"
+    },
+    "arranger": {
+      "zh_cn": "李宗驰"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸, 蒋芸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "暗物质",
+    "zh_tw": "暗物質",
+    "en": "Dark Matter",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸, 蒋芸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "有点甜",
+    "zh_tw": "有點甜",
+    "en": "A Little Sweet",
+    "lyricist": {
+      "zh_cn": "汪苏泷"
+    },
+    "composer": {
+      "zh_cn": "汪苏泷"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "汪苏泷"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "下雨天",
+    "zh_tw": "下雨天",
+    "en": "Rainy Day",
+    "lyricist": {
+      "en": "Lara Liang Veronin",
+      "zh_tw": "梁心頤",
+      "zh_cn": "梁心颐"
+    },
+    "composer": {
+      "zh_tw": "張傑",
+      "zh_cn": "张杰",
+      "en": "AJ Chang"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "南拳妈妈"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "雨爱",
+    "zh_tw": "雨愛",
+    "en": "Rainie Love",
+    "lyricist": {
+      "zh_cn": "Wonderful",
+      "zh_tw": "Wonderful",
+      "en": "Wonderful"
+    },
+    "composer": {
+      "zh_tw": "金大洲",
+      "zh_cn": "金大洲",
+      "en": "Dazhou Jin"
+    },
+    "arranger": {
+      "zh_tw": "黃宣銘",
+      "zh_cn": "黄宣铭",
+      "en": "Huang Hsuan-Ming"
+    },
+    "vocalist": {
+      "zh_cn": "杨丞琳"
+    },
+    "album": {
+      "zh_cn": "Rainie & Love....? 雨爱",
+      "zh_tw": "Rainie & Love....? 雨愛",
+      "en": "Rainie & Love....?"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Utopia",
+    "zh_tw": "Utopia",
+    "en": "Utopia",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Killer",
+    "zh_tw": "Killer",
+    "en": "Killer",
+    "lyricist": {
+      "en": "Adrianne Gonzalez, Valerie Broussard",
+      "zh_tw": "安卓恩·岡薩雷斯, 瓦萊麗·布魯薩德",
+      "zh_cn": "安卓恩·冈萨雷斯, 瓦莱丽·布鲁萨德"
+    },
+    "composer": {
+      "zh_cn": "安卓恩·冈萨雷斯, 瓦莱丽·布鲁萨德",
+      "zh_tw": "安卓恩·岡薩雷斯, 瓦萊麗·布魯薩德",
+      "en": "Adrianne Gonzalez, Valerie Broussard"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "瓦莱丽·布鲁萨德"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Cyber Lover",
+    "zh_tw": "Cyber Lover",
+    "en": "Cyber Lover",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸, 蒋芸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "你像风去天涯",
+    "zh_tw": "你像風去天涯",
+    "en": "You Wander Like the Wind",
+    "lyricist": {
+      "en": ""
+    },
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "蒋芸"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "天生固执",
+    "zh_tw": "天生固執",
+    "en": "Born Stubborn",
+    "lyricist": {
+      "zh_tw": "克林",
+      "zh_cn": "克林",
+      "en": "Ke Lin"
+    },
+    "composer": {
+      "zh_tw": "逄博",
+      "zh_cn": "逄博",
+      "en": "Pang Bo"
+    },
+    "arranger": {
+      "zh_cn": "逄博",
+      "zh_tw": "逄博"
+    },
+    "vocalist": {
+      "zh_cn": "蒋芸"
+    },
+    "album": {
+      "zh_cn": "痊·愈",
+      "zh_tw": "痊·癒",
+      "en": "Recovery"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Tita Tita",
+    "zh_tw": "Tita Tita",
+    "en": "Tita Tita",
+    "lyricist": {
+      "zh_cn": "吴佩霄, 王允宸",
+      "zh_tw": "吳佩霄, 王允宸",
+      "en": "Wu Peixiao, Wang Yunchen"
+    },
+    "composer": {
+      "zh_cn": "吴佩霄",
+      "zh_tw": "吳佩霄",
+      "en": "Wu Peixiao"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸",
+      "en": "Wang Yunchen"
+    },
+    "album": {
+      "zh_cn": "隐",
+      "zh_tw": "隱",
+      "en": "Veil"
+    },
+    "intro": {
+      "zh_tw": "於2025-08-03鏡淵廣州站首次現場演唱",
+      "zh_cn": "于2025-08-03镜渊广州站首次现场演唱",
+      "en": "First live performance at the MirrorGlass Guangzhou stop on Aug. 3, 2025"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=653196165"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "李白",
+    "zh_tw": "李白",
+    "en": "Li Bai",
+    "lyricist": {
+      "zh_cn": "李荣浩",
+      "zh_tw": "",
+      "en": ""
+    },
+    "composer": {
+      "zh_cn": "李荣浩",
+      "zh_tw": "",
+      "en": ""
+    },
+    "arranger": {
+      "zh_cn": "李荣浩",
+      "zh_tw": "",
+      "en": ""
+    },
+    "vocalist": {
+      "zh_cn": "李荣浩",
+      "zh_tw": "",
+      "en": ""
+    },
+    "album": {
+      "zh_cn": "模特",
+      "zh_tw": "模特",
+      "en": "Model"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "反派心理",
+    "zh_tw": "反派心理",
+    "en": "Villainous Mentality",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "郁采真, 许冠豪",
+      "zh_tw": "郁采真, 許冠豪"
+    },
+    "arranger": {
+      "zh_cn": "张川溶K@ALLK STUDIO"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "克莱因瓶的假设",
+      "en": "Klein Bottle Hypothesis",
+      "zh_tw": "克萊因瓶的假設"
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=600008222"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "Toxic",
+    "zh_tw": "Toxic",
+    "en": "Toxic",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "布兰妮·斯皮尔斯"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "Abracadabra",
+    "zh_tw": "Abracadabra",
+    "en": "Abracadabra",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "褐眼女孩(BEG)"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "天生吉普赛",
+    "zh_tw": "天生吉普賽",
+    "en": "Born A Gypsy",
+    "lyricist": {
+      "zh_cn": "王允宸"
+    },
+    "composer": {
+      "zh_cn": "AMAJ孙叡",
+      "zh_tw": "AMAJ孫叡",
+      "en": "AMAJ"
+    },
+    "arranger": {
+      "zh_cn": "AMAJ孙叡",
+      "zh_tw": "AMAJ孫叡",
+      "en": "AMAJ"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸",
+      "en": "Wang Yunchen"
+    },
+    "album": {
+      "zh_cn": "天生吉普赛",
+      "en": "Born A Gypsy",
+      "zh_tw": "天生吉普賽"
+    },
+    "intro": {
+      "zh_tw": "於2025-09-27鏡淵北京站首次現場演唱",
+      "zh_cn": "于2025-09-27镜渊北京站首次现场演唱",
+      "en": "First live performance at the MirrorGlass Beijing Stop on Sep. 27, 2025"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=619614969"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=3321722361"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "马德里不思议",
+    "zh_tw": "馬德里不思議",
+    "en": "A Wonder In Madrid",
+    "lyricist": {
+      "zh_tw": "黃俊郎",
+      "zh_cn": "黄俊郎",
+      "en": "Alang Huang"
+    },
+    "composer": {
+      "zh_tw": "陳孟奇",
+      "zh_cn": "陈孟奇",
+      "en": "Hagen Troy"
+    },
+    "arranger": {
+      "zh_cn": "Adam Lee",
+      "zh_tw": "Adam Lee",
+      "en": "Adam Lee"
+    },
+    "vocalist": {
+      "zh_cn": "蔡依林"
+    },
+    "album": {
+      "zh_cn": "舞娘",
+      "zh_tw": "舞孃",
+      "en": "Dancing Diva"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "隐",
+    "zh_tw": "隱",
+    "en": "Veil",
+    "lyricist": {
+      "zh_cn": "谈健婷Dreamcore.No.7",
+      "zh_tw": "談健婷Dreamcore.No.7",
+      "en": "Dreamcore.No.7"
+    },
+    "composer": {
+      "zh_cn": "谈健婷Dreamcore.No.7",
+      "zh_tw": "談健婷Dreamcore.No.7",
+      "en": "Dreamcore.No.7"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王允宸"
+    },
+    "album": {
+      "zh_cn": "隐",
+      "zh_tw": "隱",
+      "en": "Veil"
+    },
+    "intro": {
+      "zh_tw": "於2025-09-27鏡淵北京站首次現場演唱",
+      "zh_cn": "于2025-09-27镜渊北京站首次现场演唱",
+      "en": "First live performance at the MirrorGlass Beijing Stop on Sep. 27, 2025"
+    },
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=653232944"
+      }
+    ],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "克莱因瓶的假设",
+    "zh_tw": "克萊因瓶的假設",
+    "en": "Klein Bottle Hypothesis",
+    "lyricist": {
+      "zh_cn": "王允宸",
+      "zh_tw": "",
+      "en": ""
+    },
+    "composer": {
+      "zh_cn": "王允宸",
+      "zh_tw": "",
+      "en": ""
+    },
+    "arranger": {
+      "zh_cn": "李宗驰",
+      "zh_tw": "",
+      "en": ""
+    },
+    "vocalist": {
+      "zh_cn": "王允宸",
+      "en": "Wang Yunchen"
+    },
+    "album": {
+      "zh_cn": "克莱因瓶的假设",
+      "en": "",
+      "zh_tw": ""
+    },
+    "intro": {},
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=600008281"
+      }
+    ],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "Illusion",
+    "zh_tw": "Illusion",
+    "en": "Illusion",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "aespa"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Whiplash",
+    "zh_tw": "Whiplash",
+    "en": "Whiplash",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "aespa"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Kill Shot",
+    "zh_tw": "Kill Shot",
+    "en": "Kill Shot",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "ITZY"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Mente Má",
+    "zh_tw": "Mente Má",
+    "en": "Mente Má",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "Nakama & Mc Staff"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "灯烛光",
+    "zh_tw": "燈燭光",
+    "en": "Candlelight",
+    "lyricist": {
+      "zh_cn": "林泽军",
+      "zh_tw": "林澤軍",
+      "en": "Lin Zejun"
+    },
+    "composer": {
+      "zh_cn": "林泽军",
+      "zh_tw": "林澤軍",
+      "en": "Lin Zejun"
+    },
+    "arranger": {
+      "zh_cn": "胖胖糖",
+      "zh_tw": "胖胖糖",
+      "en": "Pang Pang Tang"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸",
+      "zh_tw": "",
+      "en": ""
+    },
+    "album": {
+      "zh_cn": "灯烛光",
+      "zh_tw": "",
+      "en": ""
+    },
+    "intro": {
+      "zh_tw": "於2025-10-25國風少年國風盛典首次現場演唱",
+      "zh_cn": "于2025-10-25国风少年国风盛典首次现场演唱",
+      "en": "First live performance at the \"National Style Youth - National Tide Art Gala\" on Oct. 25, 2025"
+    },
+    "links": [
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=3327746993"
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/track/7s4LL7BpwyG5Nc2bg2jtaM"
+      }
+    ],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "致离别",
+    "zh_tw": "致離別",
+    "en": "To Farewell",
+    "lyricist": {
+      "zh_cn": "王允宸",
+      "zh_tw": "",
+      "en": ""
+    },
+    "composer": {
+      "zh_cn": "卡尔通",
+      "zh_tw": "",
+      "en": ""
+    },
+    "arranger": {
+      "zh_cn": "李宗驰",
+      "zh_tw": "李宗馳",
+      "en": "Lucius Li"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸",
+      "zh_tw": "",
+      "en": ""
+    },
+    "album": {},
+    "intro": {
+      "zh_cn": "又名\"致即将离去的那束光\"。2021-07-23口袋语音初次演唱片段，并在2023-08-19毕业公演PV中首次播放完整版",
+      "zh_tw": "又名\"致即將離去的那束光\"。2021-07-23口袋語音初次演唱片段，並在2023-08-19畢業公演PV中首次播放完整版",
+      "en": "A.K.A. \"To the Departing Beam of Light\". First teased via a voice clip shared on Pocket 48 on July 23, 2021, the complete track was finally revealed in the Graduation Performance PV on August 19, 2023"
+    },
+    "links": [],
+    "genre": "原创",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "Lovesick Game",
+    "zh_tw": "Lovesick Game",
+    "en": "Lovesick Game",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "ZEROBASEONE"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "唯一",
+    "zh_tw": "唯一",
+    "en": "The One And Only",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "告五人"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "NoNoNo",
+    "zh_tw": "NoNoNo",
+    "en": "NoNoNo",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "Apink"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Miniskirt",
+    "zh_tw": "Miniskirt",
+    "en": "Miniskirt",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "AOA"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Fancy",
+    "zh_tw": "Fancy",
+    "en": "Fancy",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "TWICE"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "造星计划Supernova",
+    "zh_tw": "造星計畫Supernova",
+    "en": "Supernova",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_tw": "王允宸, 程晨, 黃可",
+      "zh_cn": "王允宸, 程晨, 黄可",
+      "en": "Wang Yunchen, Cheng Chen, Huang Ke"
+    },
+    "album": {},
+    "intro": {
+      "zh_tw": "音樂劇《造星計畫》推廣曲",
+      "zh_cn": "音乐剧《造星计划》推广曲",
+      "en": "Promotion Song for Musical \"Supernova\""
+    },
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "九万字",
+    "zh_tw": "九万字",
+    "en": "九万字",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "黄诗扶",
+      "zh_tw": "黃詩扶",
+      "en": "Shifu Huang"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "卡拉永远OK",
+    "zh_tw": "卡拉永远OK",
+    "en": "卡拉永远OK",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "谭咏麟"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Colder Than Ice",
+    "zh_tw": "Colder Than Ice",
+    "en": "Colder Than Ice",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "格兰特・米勒",
+      "en": "Grant Miller",
+      "zh_tw": "格蘭特・米勒"
+    },
+    "album": {},
+    "intro": {
+      "zh_tw": "這首歌因為抖音上的企鵝高雅人士聞名",
+      "zh_cn": "这首歌因为抖音上的企鹅高雅人士闻名",
+      "en": "This song became famous due to the 'Elegant Penguin' meme on Douyin"
+    },
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Agnel+If You Love Me",
+    "zh_tw": "Agnel+If You Love Me",
+    "en": "Agnel+If You Love Me",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "MFBTY, 金允智",
+      "zh_tw": "MFBTY, NS允智",
+      "en": "MFBTY, NS Yoon-G"
+    },
+    "album": {},
+    "intro": {
+      "zh_tw": "因抖音上檸檬叉編舞聞名，實際上混了兩首歌曲",
+      "zh_cn": "因抖音上柠檬叉编舞闻名，实际上混了两首歌曲"
+    },
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "当你",
+    "zh_tw": "當你",
+    "en": "When You",
+    "lyricist": {
+      "zh_tw": "張思爾",
+      "zh_cn": "张思尔",
+      "en": "Zac Zhang"
+    },
+    "composer": {
+      "zh_cn": "林俊杰"
+    },
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "王心凌"
+    },
+    "album": {
+      "zh_tw": "Begin...",
+      "en": "Begin..."
+    },
+    "intro": {
+      "en": "The version performed by SkyGrass is likely a cover based on the composer JJ Lin's own rendition of the song",
+      "zh_tw": "天草演唱的應是作曲者林俊傑自己演繹的版本",
+      "zh_cn": "天草演唱的应是作曲者林俊杰自己演绎的版本"
+    },
+    "links": [],
+    "genre": "翻唱",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Love Shot",
+    "zh_tw": "Love Shot",
+    "en": "Love Shot",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "EXO"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "The First Snow",
+    "zh_tw": "The First Snow",
+    "en": "The First Snow",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "EXO"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Rich Man",
+    "zh_tw": "Rich Man",
+    "en": "Rich Man",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "aespa"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "30 Sexy",
+    "zh_tw": "30 Sexy",
+    "en": "30 Sexy",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "郑智薰"
+    },
+    "album": {},
+    "intro": {
+      "zh_tw": "抖音掃腿舞原曲",
+      "zh_cn": "抖音扫腿舞原曲",
+      "en": "The original song of the Douyin \"Leg Sweep Dance\""
+    },
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "夜莺与玫瑰",
+    "zh_tw": "夜鶯與玫瑰",
+    "en": "The Nightingale and the Rose",
+    "lyricist": {
+      "zh_tw": "十二兄",
+      "zh_cn": "十二兄",
+      "en": "Shi Er Xiong"
+    },
+    "composer": {
+      "zh_cn": "赵RR",
+      "zh_tw": "趙RR",
+      "en": "Zhao RR"
+    },
+    "arranger": {
+      "zh_cn": "张一帆",
+      "zh_tw": "張一帆",
+      "en": "Zhang Yifan"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸",
+      "en": ""
+    },
+    "album": {
+      "zh_cn": "隐",
+      "zh_tw": "隱",
+      "en": "Veil"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "Set Me Free",
+    "zh_tw": "Set Me Free",
+    "en": "Set Me Free",
+    "lyricist": {
+      "zh_cn": "刘呸呸",
+      "zh_tw": "劉呸呸",
+      "en": "Liu Pei Pei"
+    },
+    "composer": {
+      "zh_cn": "赵RR",
+      "zh_tw": "趙RR",
+      "en": "Zhao RR"
+    },
+    "arranger": {
+      "zh_cn": "张一帆",
+      "zh_tw": "張一帆",
+      "en": "Zhang Yifan"
+    },
+    "vocalist": {},
+    "album": {
+      "zh_cn": "隐",
+      "zh_tw": "隱",
+      "en": "Veil"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "渺渺化虚无",
+    "zh_tw": "渺渺化虛無",
+    "en": "Vanish Into Nothingness",
+    "lyricist": {
+      "zh_cn": "十二兄"
+    },
+    "composer": {
+      "zh_cn": "赵RR"
+    },
+    "arranger": {
+      "zh_cn": "张一帆"
+    },
+    "vocalist": {
+      "zh_cn": "王允宸",
+      "en": "",
+      "zh_tw": ""
+    },
+    "album": {
+      "zh_cn": "隐",
+      "zh_tw": "隱",
+      "en": "Veil"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "清欢不知愁",
+    "zh_tw": "清歡不知愁",
+    "en": "Carefree in Simple Joys",
+    "lyricist": {
+      "zh_cn": "十二兄",
+      "zh_tw": "",
+      "en": ""
+    },
+    "composer": {
+      "zh_cn": "赵RR",
+      "zh_tw": "",
+      "en": ""
+    },
+    "arranger": {
+      "zh_cn": "张一帆",
+      "zh_tw": "",
+      "en": ""
+    },
+    "vocalist": {
+      "zh_cn": "王允宸",
+      "en": "",
+      "zh_tw": ""
+    },
+    "album": {
+      "zh_cn": "隐",
+      "zh_tw": "隱",
+      "en": "Veil"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "原唱",
+    "creditType": "composer"
+  },
+  {
+    "zh_cn": "That's A No No",
+    "zh_tw": "That's A No No",
+    "en": "That's A No No",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "ITZY"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Living Hell",
+    "zh_tw": "Living Hell",
+    "en": "Living Hell",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "贝拉·珀尔奇"
+    },
+    "album": {},
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Do It Like!",
+    "zh_tw": "Do It Like!",
+    "en": "Do It Like!",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_tw": "DEITIES",
+      "zh_cn": "DEITIES",
+      "en": "DEITIES"
+    },
+    "album": {},
+    "intro": {
+      "zh_tw": "本首歌及其由DJ馬師與aespa \"Rich Man\"混搭的版本為抖音上熱門舞蹈挑戰背景音樂，被稱為 \"寧藝卓進行曲\"",
+      "zh_cn": "本首歌及其由DJ马师与aespa \"Rich Man\"混搭的版本为抖音上热门舞蹈挑战背景音乐，被称为 \"宁艺卓进行曲\"",
+      "en": "This song, along with its mashup version featuring DJ Ma Shi and aespa's 'Rich Man,' became a viral background track for dance challenges on Douyin, earning the nickname 'Ningning's March'"
+    },
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  }
+]

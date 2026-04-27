@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "series-bday",
+    "name": {
+      "zh_tw": "生日主題",
+      "zh_cn": "生日主题",
+      "en": "B'Day"
+    },
+    "emoji": "🎂",
+    "tag": {
+      "zh_cn": "原創系列",
+      "zh_tw": "原創系列",
+      "en": "Original Works Series"
+    },
+    "desc": {
+      "zh_cn": "从前从前，5月31日只是日历上的一页；自从遇见，有了不一样的意义。每年生日主题的演出都结合王允宸的原创、原唱歌曲及新翻唱惊喜，为粉丝带来一场盛大派对",
+      "zh_tw": "從前從前，5月31日只是日曆上的一頁；自從遇見，有了不一樣的意義。每年生日主題的演出都結合王允宸的原創、原唱歌曲及新翻唱驚喜，讓粉絲猶如置身一場盛大派對",
+      "en": "Once upon a time, May 31 was just another day on the calendar. But since we met, it has taken on a whole new meaning. Each year's birthday-themed performance brings together Wang YunChen's original compositions, original songs, and fresh cover surprises—creating a grand celebration for fans"
+    },
+    "venues": [
+      {
+        "id": "bd-240531",
+        "name": {
+          "zh_cn": "Zerlina的地星聚会",
+          "zh_tw": "Zerlina的地星聚會",
+          "en": "Zerlina's Earth Party"
+        },
+        "date": "2024.05.31",
+        "venue": {
+          "zh_cn": "万代南梦宫文化中心-梦想剧场",
+          "zh_tw": "萬代南夢宮文化中心-夢想劇場",
+          "en": "Bandai Namco Dream Hall"
+        },
+        "time": "19:30",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "Zerlina的地星聚会",
+          "zh_tw": "Zerlina的地星聚會",
+          "en": "Zerlina's Earth Party"
+        }
+      },
+      {
+        "id": "bd-250531",
+        "name": {
+          "zh_cn": "J005311星球聚会",
+          "zh_tw": "J005311星球聚會",
+          "en": "J005311 Supernova Party"
+        },
+        "date": "2025.05.31",
+        "venue": {
+          "zh_cn": "瓦肆VAS est",
+          "zh_tw": "瓦肆VAS est",
+          "en": "VAS est"
+        },
+        "time": "20:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "J005311星球聚会",
+          "zh_tw": "J005311星球聚會",
+          "en": "J005311 Supernova Party"
+        }
+      },
+      {
+        "id": "bd-260531",
+        "name": {
+          "zh_cn": "2026生日见面会After Party",
+          "zh_tw": "2026生日見面會After Party",
+          "en": "2026 B'day Singings After Party"
+        },
+        "date": "2026.05.31",
+        "venue": {
+          "zh_cn": "瓦肆VAS ear",
+          "zh_tw": "瓦肆VAS ear",
+          "en": "VAS ear"
+        },
+        "time": "",
+        "badge": "coming_soon",
+        "concertName": {
+          "zh_cn": "2026生日见面会After Party",
+          "zh_tw": "2026生日見面會After Party",
+          "en": "2026 B'day Singings After Party"
+        }
+      },
+      {
+        "id": "bd-260627",
+        "name": {
+          "zh_cn": "2026生日主题Live",
+          "zh_tw": "2026生日主題Live",
+          "en": "2026 Birthday-themed Live"
+        },
+        "date": "2026.06.27",
+        "venue": {
+          "zh_cn": "瓦肆VAS est",
+          "zh_tw": "瓦肆VAS est",
+          "en": "VAS est"
+        },
+        "time": "",
+        "badge": "coming_soon",
+        "concertName": {
+          "zh_cn": "2026生日主题Live",
+          "zh_tw": "2026生日主題Live",
+          "en": "2026 Birthday-themed Live"
+        }
+      }
+    ]
+  },
+  {
+    "id": "series-gigfest",
+    "name": {
+      "zh_cn": "音乐节",
+      "zh_tw": "音樂節",
+      "en": "Music Festival"
+    },
+    "emoji": "🥳",
+    "tag": {
+      "zh_cn": "商演系列",
+      "zh_tw": "商演系列",
+      "en": "Gigs Series"
+    },
+    "desc": {
+      "zh_cn": "音乐节及其他商业演出集锦",
+      "zh_tw": "音樂節及其他商業演出集錦",
+      "en": "Music festivals and corporate gigs"
+    },
+    "venues": [
+      {
+        "id": "gig-230716",
+        "name": {
+          "zh_cn": "2023西安世园动漫音乐节",
+          "zh_tw": "2023西安世園動漫音樂節",
+          "en": "2023 Shiyuan ACG "
+        },
+        "date": "2023.07.16",
+        "venue": {
+          "zh_cn": "西安国际会展中心",
+          "zh_tw": "西安國際會展中心",
+          "en": "Xi'an International Convention and Exhibition Center"
+        },
+        "time": "18:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2023青年文化节-世园音乐节次元潮音",
+          "zh_tw": "2023青年文化節-世園音樂節次元潮音",
+          "en": "2023 Youth Culture Festival - Shiyuan Music Festival \"Dimension Wave\""
+        }
+      },
+      {
+        "id": "gig-231004",
+        "name": {
+          "zh_cn": "2023成都CGK动漫展",
+          "zh_tw": "2023成都CGK動漫展",
+          "en": "2023 Chengdu CGK "
+        },
+        "date": "2023.10.04",
+        "venue": {
+          "zh_cn": "国际非物质文化遗产博览园",
+          "zh_tw": "國際非物質文化遺產博覽園",
+          "en": "International Intangible Cultural Heritage Exhibition Park"
+        },
+        "time": "11:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2023成都CGK动漫游戏嘉年华",
+          "zh_tw": "2023成都CGK動漫遊戲嘉年華",
+          "en": "2023 Chengdu CGK Anime & Game Carnival"
+        }
+      },
+      {
+        "id": "gig-231014",
+        "name": {
+          "zh_cn": "2023繁昌大学生音乐节",
+          "zh_tw": "2023繁昌大學生音樂節",
+          "en": "2023 Fanchang "
+        },
+        "date": "2023.10.14",
+        "venue": {
+          "zh_cn": "繁昌人民体育场",
+          "zh_tw": "繁昌人民體育場",
+          "en": "Fanchang People's Stadium"
+        },
+        "time": "17:30",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "繁昌首届大学生青年文化节",
+          "zh_tw": "繁昌首屆大學生青年文化節",
+          "en": "The 1st Fanchang University Student & Youth Culture Festival"
+        }
+      },
+      {
+        "id": "gig-231104",
+        "name": {
+          "zh_cn": "2023杭州不止音乐节",
+          "zh_tw": "2023杭州不止音樂節",
+          "en": "2023 Hangzhou Buzhi "
+        },
+        "date": "2023.11.04",
+        "venue": {
+          "zh_cn": "杭州滨江白马湖",
+          "zh_tw": "杭州濱江白馬湖",
+          "en": "Hangzhou Binjiang White Horse Lake"
+        },
+        "time": "12:50",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2023华数不止音乐节",
+          "zh_tw": "2023華數不止音樂節",
+          "en": "2023 WASU Buzhi Music Festival"
+        }
+      },
+      {
+        "id": "gig-231229",
+        "name": {
+          "zh_cn": "2023哈尔滨音乐节",
+          "zh_tw": "2023哈爾濱音樂節",
+          "en": "2023 Harbin"
+        },
+        "date": "2023.12.29",
+        "venue": {
+          "zh_cn": "哈尔滨国际会展中心",
+          "zh_tw": "哈爾濱國際會展中心",
+          "en": "Harbin International Convention and Exhibition Center"
+        },
+        "time": "12:30",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "第二届中国(哈尔滨)CHCG国际动漫游戏博览会",
+          "zh_tw": "第二屆中國(哈爾濱)CHCG國際動漫遊戲博覽會",
+          "en": "The 2nd China (Harbin) CHCG International Anime & Game Expo"
+        }
+      },
+      {
+        "id": "gig-231231",
+        "name": {
+          "zh_cn": "2023温州音乐节",
+          "zh_tw": "2023溫州音樂節",
+          "en": "2023 Wenzhou"
+        },
+        "date": "2023.12.31",
+        "venue": {
+          "zh_cn": "温州国际会展中心",
+          "zh_tw": "溫州國際會展中心",
+          "en": "Wenzhou International Convention and Exhibition Center"
+        },
+        "time": "18:15",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2023温州BE・ACGN动漫游戏嘉年华",
+          "zh_tw": "2023溫州BE・ACGN動漫遊戲嘉年華",
+          "en": "2023 Wenzhou BE·ACGN Anime & Game Carnival"
+        }
+      },
+      {
+        "id": "gig-240501",
+        "name": {
+          "zh_cn": "2024南通漫展音乐节",
+          "zh_tw": "2024南通漫展音樂節",
+          "en": "2024 Nantong"
+        },
+        "date": "2024.05.01",
+        "venue": {
+          "zh_cn": "南通体育会展中心",
+          "zh_tw": "南通體育會展中心",
+          "en": "Nantong Stadium & Exhibition Center"
+        },
+        "time": "11:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2024游梦计划・南通动漫游戏展",
+          "zh_tw": "2024遊夢計劃・南通動漫遊戲展",
+          "en": "2024 Project Dream · Nantong Anime & Game Expo"
+        }
+      },
+      {
+        "id": "gig-240629",
+        "name": {
+          "zh_cn": "2024上海超级芒果音乐节",
+          "zh_tw": "2024上海超級芒果音樂節",
+          "en": "2024 Super Mango "
+        },
+        "date": "2024.06.29",
+        "venue": {
+          "zh_cn": "上海国际音乐村",
+          "zh_tw": "上海國際音樂村",
+          "en": "Shanghai International Music Park"
+        },
+        "time": "15:10",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2024上海超级芒果音乐节",
+          "zh_tw": "2024上海超級芒果音樂節",
+          "en": "2024 Shanghai Super Mango Music Festival"
+        },
+        "concertNameEn": {
+          "zh_cn": "未按照实际演唱序并仅列出王允宸参与演唱部份",
+          "zh_tw": "未按照實際演唱序並僅列出王允宸參與演唱部份",
+          "en": "Not listed in chronological order; includes only parts performed by Wang Yunchen"
+        }
+      },
+      {
+        "id": "gig-240928",
+        "name": {
+          "zh_cn": "腾讯音乐一万元舞台",
+          "zh_tw": "騰訊音樂一萬元舞台",
+          "en": "TME 10,000 Yuan Stage"
+        },
+        "date": "2024.09.28",
+        "venue": {
+          "zh_cn": "THE BOXX",
+          "zh_tw": "THE BOXX",
+          "en": "THE BOXX"
+        },
+        "time": "20:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2024腾讯音乐一万元第十期舞台录制",
+          "zh_tw": "2024騰訊音樂一萬元第十期舞台錄製",
+          "en": "2024 Tencent Music \"10,000 Yuan Stage\" Episode 10 Recording"
+        },
+        "concertNameEn": {
+          "zh_cn": "录制现场有补录INFP-失控，因此列在\"安可曲\"",
+          "zh_tw": "錄製現場有補錄INFP-失控，因此列在「安可曲」",
+          "en": "Due to a live re-recording of \"INFP-Out of Control\", the song has been included in the encore section"
+        }
+      },
+      {
+        "id": "gig-241228",
+        "name": {
+          "zh_cn": "2024央视《国风少年》盛典",
+          "zh_tw": "2024央視《國風少年》盛典",
+          "en": "2024 CCTV National Style Youth"
+        },
+        "date": "2024.12.28",
+        "venue": {
+          "zh_cn": "深圳广播电视集团",
+          "zh_tw": "深圳廣播電視集團",
+          "en": "Shenzhen Radio, Film and TV Group"
+        },
+        "time": "",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2024央视《国风少年》盛典录制",
+          "zh_tw": "2024央視《國風少年》盛典錄制",
+          "en": "2024 CCTV \"National Style Youth\" Gala Recording"
+        },
+        "concertNameEn": {
+          "zh_cn": "录制现场有补录光的回响，因此列在\"安可曲\"",
+          "zh_tw": "錄製現場有補錄光的迴響，因此列在「安可曲」",
+          "en": "Due to a live re-recording of \"Light Echo\", the song has been included in the encore section"
+        }
+      },
+      {
+        "id": "gig-250108",
+        "name": {
+          "zh_cn": "2025景德镇OTK次元动漫嘉年华",
+          "zh_tw": "2025景德鎮OTK次元動漫嘉年華",
+          "en": "2025 Jingdezhen"
+        },
+        "date": "2025.01.08",
+        "venue": {
+          "zh_cn": "陶博城国际会展中心2号馆",
+          "zh_tw": "陶博城國際會展中心2號館",
+          "en": "Jingdezhen Ceramic Art Avenue (TAOBO CITY) Int'l Convention and Exhibition Center, Hall 2"
+        },
+        "time": "13:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2025景德镇・陶博青年文化节暨OTK次元动漫嘉年华",
+          "zh_tw": "2025景德鎮・陶博青年文化節暨OTK次元動漫嘉年華",
+          "en": "2025 Jingdezhen · Ceramic Museum Youth Culture Festival & OTK Dimension Anime Carnival"
+        }
+      },
+      {
+        "id": "gig-250420",
+        "name": {
+          "zh_cn": "2025北京国际电影节",
+          "zh_tw": "2025北京國際電影節",
+          "en": "2025 Beijing Int'l Film Festival"
+        },
+        "date": "2025.04.20",
+        "venue": "",
+        "time": "",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2025北京国际电影节电影嘉年华电竞嘉年华",
+          "zh_tw": "2025北京國際電影節電影嘉年華電競嘉年華",
+          "en": "2025 BJIFF Movie Carnival - Movies & E-sports Carnival"
+        }
+      },
+      {
+        "id": "gig-250517",
+        "name": {
+          "zh_cn": "2025 DREAMHACK超感玩家盛典",
+          "en": "2025 DREAMHACK Hyper-Sense Player Gala"
+        },
+        "date": "2025.05.17",
+        "venue": {
+          "zh_cn": "上海国家会展中心",
+          "zh_tw": "上海国家会展中心",
+          "en": "Shanghai Convention and Exhibition Center"
+        },
+        "time": "14:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2025 DREAMHACK超感玩家盛典",
+          "zh_tw": "2025 DREAMHACK超感玩家盛典",
+          "en": "2025 DREAMHACK Hyper-Sense Player Gala"
+        },
+        "concertNameEn": {
+          "zh_cn": "未按照实际演唱序并仅列出王允宸参与演唱部份",
+          "zh_tw": "未按照實際演唱序並僅列出王允宸參與演唱部份",
+          "en": "Not listed in chronological order; includes only parts performed by Wang Yunchen"
+        }
+      },
+      {
+        "id": "gig-250727",
+        "name": {
+          "zh_cn": "2025深圳漫展节",
+          "zh_tw": "2025深圳漫展節",
+          "en": "2025 Shenzhen"
+        },
+        "date": "2025.07.27",
+        "venue": {
+          "zh_cn": "深圳福田会展中心1号馆",
+          "zh_tw": "深圳福田會展中心1號館",
+          "en": "Shenzhen Convention & Exhibition Center (Futian), Hall 1"
+        },
+        "time": "13:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2025深圳动漫节",
+          "zh_tw": "2025深圳動漫節",
+          "en": "2025 Shenzhen Anime Festival"
+        }
+      },
+      {
+        "id": "gig-250808",
+        "name": {
+          "zh_cn": "2025时兴大地艺术季",
+          "zh_tw": "2025時興大地藝術季",
+          "en": "2025 Shixing Land Art"
+        },
+        "date": "2025.08.08",
+        "venue": "",
+        "time": "",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2025 V中文版X时兴大地艺术季",
+          "zh_tw": "2025 V中文版X時興大地藝術季",
+          "en": "2025 V Magazine (Chinese Edition) x Shixing Land Art Season"
+        }
+      },
+      {
+        "id": "gig-251025",
+        "name": {
+          "zh_cn": "2025山东济南国风少年",
+          "zh_tw": "2025山東濟南國風少年",
+          "en": "2025 Jinan National Style Youth"
+        },
+        "date": "2025.10.25",
+        "venue": "",
+        "time": "",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "2025国风少年国潮艺术盛典",
+          "zh_tw": "2025國風少年國潮藝術盛典",
+          "en": "2025 National Style Youth - National Tide Art Gala"
+        }
+      }
+    ]
+  },
+  {
+    "id": "lightecho",
+    "name": {
+      "zh_cn": "光的回响",
+      "zh_tw": "光的迴響",
+      "en": "Light Echo"
+    },
+    "emoji": "💫",
+    "tag": {
+      "zh_cn": "原创系列",
+      "zh_tw": "原創系列",
+      "en": "Original Works Series"
+    },
+    "desc": {
+      "zh_cn": "毕业后踏出尝试的步伐，以首张原创专辑《光的回响Light Echo》为基础，加上过往累积的原创作品，让观众一同见证热爱如何回响至整个宇宙\n",
+      "zh_tw": "畢業後踏出嘗試的步伐，以首張原創專輯《光的迴響Light Echo》為基礎，加上過往累積的原創作品，讓觀眾一同見證熱愛如何迴響至整個宇宙",
+      "en": "Step out and start exploring. Her passion echo across the universe"
+    },
+    "venues": [
+      {
+        "id": "lightecho-sh1",
+        "name": {
+          "zh_cn": "上海场I",
+          "zh_tw": "上海場I",
+          "en": "Shanghai Stop"
+        },
+        "date": "2023.10.27",
+        "venue": {
+          "zh_cn": "梅赛德斯奔驰文化中心音乐具乐部",
+          "zh_tw": "梅賽德斯奔馳文化中心音樂俱樂部",
+          "en": "The Mixing Room & MUSE at Mercedes-Benz Arena"
+        },
+        "time": "20:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "首场个人Live光的回响",
+          "zh_tw": "首場個人Live光的回響",
+          "en": "First Solo Live Performance, \"Light Echo\""
+        },
+        "concertNameEn": {
+          "zh_cn": "最后清唱了几句《禁止不开心》，因此列入安可曲",
+          "zh_tw": "最後清唱了幾句《禁止不開心》，因此列入安可曲",
+          "en": "A few lines of \"Joy Is Mandatory\" were sung a cappella at the very end, earning it a spot on the encore list"
+        }
+      },
+      {
+        "id": "lightecho-cs",
+        "name": {
+          "zh_cn": "长沙场I",
+          "zh_tw": "長沙場I",
+          "en": "Changsha Stop I"
+        },
+        "date": "2023.12.16",
+        "venue": {
+          "zh_cn": "易度时光阳光剧场",
+          "zh_tw": "易度時光陽光劇場",
+          "en": "Yidu Shiguang Livehouse"
+        },
+        "time": "14:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "光的回响长沙场",
+          "zh_tw": "光的迴響長沙場",
+          "en": "Light Echo Changsha Stop"
+        }
+      },
+      {
+        "id": "lightecho-24spring",
+        "name": {
+          "zh_cn": "新春场",
+          "zh_tw": "新春場",
+          "en": "Shanghai Spring Special"
+        },
+        "date": "2024.01.28",
+        "venue": {
+          "zh_cn": "蜚声上海",
+          "zh_tw": "蜚聲上海",
+          "en": "Phase Livehouse Shanghai"
+        },
+        "time": "15:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "光的回响新春场",
+          "zh_tw": "光的迴響新春場",
+          "en": "Light Echo Shanghai Spring Special"
+        }
+      },
+      {
+        "id": "lightecho-gnz",
+        "name": {
+          "zh_cn": "广州场",
+          "zh_tw": "廣州場",
+          "en": "Guangzhou Stop"
+        },
+        "date": "2024.04.27",
+        "venue": {
+          "zh_cn": "大麦66 Livehouse广州",
+          "zh_tw": "大麥66 Livehouse廣州",
+          "en": "Damai 66 Livehouse Guangzhou"
+        },
+        "time": "18:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "光的回响广州场",
+          "zh_tw": "光的迴響廣州場",
+          "en": "Light Echo Guangzhou Stop"
+        }
+      },
+      {
+        "id": "lightecho-zz",
+        "name": {
+          "zh_cn": "郑州场",
+          "zh_tw": "鄭州場",
+          "en": "Zhengzhou Stop"
+        },
+        "date": "2024.05.11",
+        "venue": {
+          "zh_cn": "7 Livehouse+",
+          "zh_tw": "7 Livehouse+",
+          "en": "7 Livehouse+"
+        },
+        "time": "19:30",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "光的回响郑州场",
+          "zh_tw": "光的迴響鄭州場",
+          "en": "Light Echo Zhengzhou Stop"
+        }
+      },
+      {
+        "id": "lightecho-cs2",
+        "name": {
+          "zh_cn": "长沙场II",
+          "zh_tw": "長沙場II",
+          "en": "Chengsha Stop II"
+        },
+        "date": "2024.06.16",
+        "venue": {
+          "zh_cn": "达丰空间",
+          "zh_tw": "達豐空間",
+          "en": "Da Feng Space"
+        },
+        "time": "19:30",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "光的回响长沙场",
+          "zh_tw": "光的迴響長沙場",
+          "en": "Light Echo Chengsha Stop II"
+        }
+      },
+      {
+        "id": "lightecho-naj",
+        "name": {
+          "zh_cn": "南京场",
+          "zh_tw": "南京場",
+          "en": "Nanjing Stop"
+        },
+        "date": "2024.06.30",
+        "venue": {
+          "zh_cn": "1701 Livehouse Max",
+          "zh_tw": "1701 Livehouse Max",
+          "en": "1701 Livehouse Max"
+        },
+        "time": "19:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "光的回响南京场",
+          "zh_tw": "光的迴響南京場",
+          "en": "Light Echo Nanjing Stop"
+        }
+      },
+      {
+        "id": "lightecho-ctu",
+        "name": {
+          "zh_cn": "成都场",
+          "zh_tw": "成都場",
+          "en": "Chengdu Stop"
+        },
+        "date": "2024.10.19",
+        "venue": {
+          "zh_cn": "福馆Fullhouse成都",
+          "zh_tw": "福館Fullhouse成都",
+          "en": "Fullhouse Chengdu"
+        },
+        "time": "19:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "光的回响成都场",
+          "zh_tw": "光的迴響成都場",
+          "en": "Light Echo Chengdu Stop"
+        }
+      },
+      {
+        "id": "lightecho-xian",
+        "name": {
+          "zh_cn": "西安场",
+          "zh_tw": "西安場",
+          "en": "Xi'an Stop"
+        },
+        "date": "2024.11.16",
+        "venue": {
+          "zh_cn": "西安星球工厂Livehouse",
+          "zh_tw": "西安星球工厂Livehouse",
+          "en": "Xian KEZEE Livehouse"
+        },
+        "time": "19:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "光的回响西安场",
+          "zh_tw": "光的迴響西安場",
+          "en": "Light Echo Xi'an Stop"
+        }
+      },
+      {
+        "id": "lightecho-fuz",
+        "name": {
+          "zh_cn": "福州场",
+          "zh_tw": "福州場",
+          "en": "Fuzhou Stop"
+        },
+        "date": "2024.12.07",
+        "venue": {
+          "zh_cn": "MAAQUU X CH8",
+          "zh_tw": "MAAQUU X CH8",
+          "en": "MAAQUU X CH8"
+        },
+        "time": "19:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "光的回响福州场",
+          "zh_tw": "光的迴響福州場",
+          "en": "Light Echo Fuzhou Stop"
+        }
+      },
+      {
+        "id": "lightecho-fin",
+        "name": {
+          "zh_cn": "收官场",
+          "zh_tw": "收官場",
+          "en": "Final Stop"
+        },
+        "date": "2025.01.11",
+        "venue": {
+          "zh_cn": "万代南梦宫上海文化中心-梦想剧场",
+          "zh_tw": "萬代南夢宮上海文化中心-夢想劇場",
+          "en": "Bandai Namco Dream Hall"
+        },
+        "time": "19:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "光的回响收官场",
+          "zh_tw": "光的迴響收官場",
+          "en": "Finale of Light Echo tour"
+        }
+      }
+    ]
+  },
+  {
+    "id": "series-tbsumtour",
+    "name": {
+      "zh_tw": "搖滾太白・詩與星夏日旅行音樂會",
+      "zh_cn": "摇滚太白・诗与星夏日旅行音乐会",
+      "en": "From Musical \"Taibai: the Starry Poem\" Summer Touring Concert"
+    },
+    "emoji": "🎭",
+    "tag": {
+      "zh_cn": "合作系列",
+      "zh_tw": "合作系列",
+      "en": "Collaboration Series"
+    },
+    "desc": {
+      "zh_cn": "为无法前去上海观看音乐剧《摇滚太白・诗与星》的粉丝带来的夏日巡回音乐会版本，简化道具布景的需求，但音乐不减，以音乐为中心融入天草原创，为粉丝带来完全不同的新滋味。音乐剧巡演音乐会的歌单与实际落差可能较大，请以实际为准，若有相关记录可联系苍站更正",
+      "zh_tw": "為無法前去上海觀看音樂劇《搖滾太白・詩與星》的粉絲帶來的夏日巡迴音樂會版本，簡化道具佈景的需求，但音樂不減，以音樂為中心融入天草原創，為粉絲帶來完全不同的新滋味。音樂劇巡演音樂會的歌單與實際落差可能較大，請以實際為準，若有相關記錄可聯繫蒼站更正",
+      "en": "A summer tour version created for fans who couldn't attend the musical From Musical \"Taibai: the Starry Poem\" in Shanghai. With simplified stage design and props, the focus remains firmly on the music, blending SkyGrass's original works to deliver a completely new and refreshing experience. The setlist for the musical tour may differ from the actual performance. Please refer to the live performance as final. If you have any records or corrections, please contact Verdant"
+    },
+    "venues": [
+      {
+        "id": "rtaibai-cq1",
+        "name": {
+          "zh_cn": "重庆站月圆场",
+          "zh_tw": "重慶站月圓場",
+          "en": "Chongqing Stop Day 1"
+        },
+        "date": "2024.08.03",
+        "venue": {
+          "zh_cn": "重庆寅派动力",
+          "zh_tw": "重慶寅派動力",
+          "en": "Impact Motion"
+        },
+        "time": "19:30",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "摇滚太白·诗与星夏日旅行音乐会-重庆站Day 1",
+          "zh_tw": "搖滾太白·詩與星夏日旅行音樂會-重慶站Day 1",
+          "en": "\"Taibai: the Starry Poem\" Summer Touring Concert Chongqing Stop Day 1"
+        }
+      },
+      {
+        "id": "rtaibai-cq2",
+        "name": {
+          "zh_cn": "重庆站辛辰场",
+          "zh_tw": "重慶站辛辰場",
+          "en": "Chongqing Stop Day 2"
+        },
+        "date": "2024.08.04",
+        "venue": {
+          "zh_cn": "重庆寅派动力",
+          "zh_tw": "重慶寅派動力",
+          "en": "Impact Motion"
+        },
+        "time": "19:30",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "摇滚太白·诗与星夏日旅行音乐会-重庆站Day 2",
+          "zh_tw": "搖滾太白·詩與星夏日旅行音樂會-重慶站Day 2",
+          "en": "\"Taibai: the Starry Poem\" Summer Touring Concert Chongqing Stop Day 2"
+        }
+      },
+      {
+        "id": "rtaibai-gnz1",
+        "name": {
+          "zh_cn": "广州站月圆场",
+          "zh_tw": "廣州站月圓場",
+          "en": "Guangzhou Stop Day 1"
+        },
+        "date": "2024.08.10",
+        "venue": {
+          "zh_cn": "大麦66 Livehouse广州",
+          "zh_tw": "大麥66 Livehouse廣州",
+          "en": "Damai 66 Livehouse Guangzhou"
+        },
+        "time": "19:30",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "摇滚太白·诗与星夏日旅行音乐会-广州站Day 1",
+          "zh_tw": "搖滾太白·詩與星夏日旅行音樂會-廣州站Day 1",
+          "en": "\"Taibai: the Starry Poem\" Summer Touring Concert Guangzhou Stop Day 1"
+        }
+      },
+      {
+        "id": "rtaibai-gnz2",
+        "name": {
+          "zh_cn": "广州站辛辰场",
+          "zh_tw": "廣州站辛辰場",
+          "en": "Guangzhou Stop Day 2"
+        },
+        "date": "2024.08.11",
+        "venue": {
+          "zh_cn": "大麦66 Livehouse广州",
+          "zh_tw": "大麥66 Livehouse廣州",
+          "en": "Damai 66 Livehouse Guangzhou"
+        },
+        "time": "19:30",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "摇滚太白·诗与星夏日旅行音乐会-广州站Day 2",
+          "zh_tw": "搖滾太白·詩與星夏日旅行音樂會-廣州站Day 2",
+          "en": "\"Taibai: the Starry Poem\" Summer Touring Concert Guangzhou Stop Day 2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "series-cydual",
+    "name": {
+      "zh_tw": "蔣芸王允宸雙人巡演",
+      "zh_cn": "蒋芸王允宸双人巡演",
+      "en": "Jiang Yun × Wang Yunchen Dual Tour"
+    },
+    "emoji": "🪩",
+    "tag": {
+      "zh_cn": "合作系列",
+      "zh_tw": "合作系列",
+      "en": "Collaboration Series"
+    },
+    "desc": {
+      "zh_cn": "王允宸与蒋芸合作的Live演出，包含天草原创作品、蒋芸原唱作品、双人合作原唱歌曲及翻唱演出",
+      "zh_tw": "王允宸與蔣芸合作的Live演出，包含天草原創作品、蔣芸原唱作品、雙人合作原唱歌曲及翻唱演出",
+      "en": "A live concert tour collaboration between Wang YunChen and Jiang Yun, featuring SkyGrass's original works, Jiang Yun's songs, duet songs written for them, as well as selected cover performances"
+    },
+    "venues": [
+      {
+        "id": "cydual-mar1",
+        "name": {
+          "zh_cn": "Mariposa首日",
+          "en": "Mariposa Day 1"
+        },
+        "date": "2024.02.14",
+        "venue": {
+          "zh_cn": "万代南梦宫上海文化中心-梦想剧场",
+          "zh_tw": "萬代南夢宮上海文化中心-夢想劇場",
+          "en": "Bandai Namco Dream Hall"
+        },
+        "time": "20:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "Mariposa首日场",
+          "zh_tw": "Mariposa首日場",
+          "en": ""
+        }
+      },
+      {
+        "id": "cydual-mar2",
+        "name": {
+          "zh_cn": "Mariposa第二场",
+          "zh_tw": "Mariposa第二場",
+          "en": "Mariposa Day 2"
+        },
+        "date": "2024.02.15",
+        "venue": {
+          "zh_cn": "万代南梦宫上海文化中心-梦想剧场",
+          "zh_tw": "萬代南夢宮上海文化中心-夢想劇場",
+          "en": "Bandai Namco Dream Hall"
+        },
+        "time": "20:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "Mariposa第二场",
+          "zh_tw": "Mariposa第二場",
+          "en": "Mariposa Day 2"
+        },
+        "concertNameEn": {
+          "zh_cn": "歌单与首日场相同",
+          "zh_tw": "歌單與首日場相同",
+          "en": "setlist is the same as Day 1's"
+        }
+      },
+      {
+        "id": "cydual-99ctu",
+        "name": {
+          "zh_cn": "Nighty Night成都站",
+          "en": "Nighty Night Chengdu"
+        },
+        "date": "2025.08.23",
+        "venue": {
+          "zh_cn": "东区超现场",
+          "zh_tw": "東區超現場",
+          "en": "Eastern Ultra Music Center"
+        },
+        "time": "19:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "Nighty Night成都站",
+          "zh_tw": "Nighty Night成都站",
+          "en": "Nighty Night Chengdu"
+        }
+      }
+    ]
+  },
+  {
+    "id": "series-mirrorglass",
+    "name": {
+      "zh_tw": "鏡淵",
+      "zh_cn": "镜渊",
+      "en": "MirrorGlass"
+    },
+    "emoji": "🪞",
+    "tag": {
+      "zh_cn": "原創系列",
+      "zh_tw": "原創系列",
+      "en": "Original Works Series"
+    },
+    "desc": {
+      "zh_cn": "光与镜的深渊，自我映照的挣扎，创伤、割裂、希望及成长，主题巡演以王允宸原创专辑《镜渊MirrorGlass》及EP《克莱因瓶的假设》为歌单基础，加上过往经典原创作品及不同的翻唱歌曲，为每站的粉丝带来情感丰沛又内省的视听盛宴",
+      "zh_tw": "光與鏡的深淵，自我映照的掙扎，創傷、割裂、希望及成長，主題巡演以王允宸原創專輯《鏡淵MirrorGlass》及原唱EP《克萊因瓶的假設》為歌單基礎，加上過往經典原創作品及不同的翻唱歌曲，為每站的粉絲帶來情感豐沛又內省的視聽盛宴",
+      "en": "Abyss of Light and Mirror, a journey of self-reflection and inner struggle—exploring trauma, fragmentation, hope, and growth. This themed tour is built upon \"MirrorGlass\" and the EP \"Klein Bottle Hypothesis\", enriched with past original classics and diverse cover songs, delivering an emotionally powerful and introspective audiovisual experience at every stop"
+    },
+    "venues": [
+      {
+        "id": "mrg-gnz",
+        "name": {
+          "zh_cn": "广州站",
+          "zh_tw": "廣州站",
+          "en": "Guangzhou Stop"
+        },
+        "date": "2025.08.03",
+        "venue": {
+          "zh_cn": "MAO Livehouse广州中大店（一号馆）",
+          "zh_tw": "MAO Livehouse廣州中大店（一號館）",
+          "en": "MAO Livehouse SYSU Branch"
+        },
+        "time": "20:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "镜渊巡演广州站",
+          "zh_tw": "鏡淵巡演廣州站",
+          "en": "MirrorGlass Guangzhou"
+        }
+      },
+      {
+        "id": "mrg-bej",
+        "name": {
+          "zh_cn": "北京站",
+          "en": "Beijing Stop"
+        },
+        "date": "2025.09.27",
+        "venue": {
+          "zh_cn": "蛙厂RMMF·北京798店",
+          "zh_tw": "蛙廠RMMF·北京798店",
+          "en": "RMMF·Beijing 798 Branch"
+        },
+        "time": "19:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "镜渊巡演北京站",
+          "zh_tw": "鏡淵巡演北京站",
+          "en": "MirrorGlass Beijing"
+        }
+      },
+      {
+        "id": "mrg-szx",
+        "name": {
+          "zh_cn": "深圳站",
+          "en": "Shenzhen Stop"
+        },
+        "date": "2025.11.15",
+        "venue": {
+          "zh_cn": "深圳BO Live前海店",
+          "zh_tw": "深圳BO Live前海店",
+          "en": "Shenzhen BO Live Qianhai Branch"
+        },
+        "time": "",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "镜渊巡演深圳站",
+          "zh_tw": "鏡淵巡演深圳站",
+          "en": "MirrorGlass Shenzhen"
+        }
+      },
+      {
+        "id": "mrg-fin",
+        "name": {
+          "zh_cn": "武汉收官站",
+          "zh_tw": "武漢收官站",
+          "en": "Wuhan Stop"
+        },
+        "date": "2026.01.17",
+        "venue": {
+          "zh_cn": "武汉MAO Livehouse",
+          "zh_tw": "武漢MAO Livehouse",
+          "en": "Wuhan MAO Livehouse"
+        },
+        "time": "",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "镜渊巡演收官站",
+          "zh_tw": "鏡淵巡演收官站",
+          "en": "Finale of MirrorGlass Tour"
+        },
+        "concertNameEn": {
+          "zh_cn": "C16发布",
+          "zh_tw": "C16發佈",
+          "en": "Announce \"C16\""
+        }
+      },
+      {
+        "id": "mrg-ap",
+        "name": {
+          "zh_cn": "After Party"
+        },
+        "date": "2026.02.07",
+        "venue": {
+          "zh_cn": "ME HUB Livehouse",
+          "zh_tw": "ME HUB Livehouse",
+          "en": "ME HUB Livehouse"
+        },
+        "time": "20:00",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "镜渊巡演After Party",
+          "zh_tw": "鏡淵巡演After Party",
+          "en": "After Party of MirrorGlass Tour"
+        }
+      }
+    ]
+  },
+  {
+    "id": "series-rendezvous",
+    "name": {
+      "zh_tw": "隱",
+      "zh_cn": "隐",
+      "en": "Rendezvous"
+    },
+    "emoji": "🫥",
+    "tag": {
+      "zh_cn": "原唱系列",
+      "zh_tw": "原唱系列",
+      "en": "Originals Series"
+    },
+    "desc": {
+      "zh_cn": "以旋律为舟，渡一场自我的内心山海。 王允宸全新出发后的新原唱EP《隐》是独属于自我的精神探寻，将从困顿到挣脱，终至释然的本心归途，拆解为三章旋律叙事。本主题巡演基于《隐》的歌曲加上其他原唱与翻唱歌曲，谁说探寻必然无声？一起加入结合动感与内敛的自我探寻之旅",
+      "zh_tw": "以旋律為舟，渡一場自我的內心山海。 王允宸全新出發後的新原唱EP《隱》是獨屬於自我的精神探尋，將從困頓到掙脫，終至釋然的本心歸途，拆解為三章旋律敘事。本主題巡演基於《隱》的歌曲加上其他原唱與翻唱歌曲，誰說探尋必然無聲？一起加入結合動感與內斂的自我探尋之旅。",
+      "en": "Sailing on melody, crossing the vast inner landscapes of the self. Wang YunChen's new EP \"Veil\" marks a renewed beginning, a deeply personal spiritual exploration. Tracing a journey from struggle to liberation, and ultimately to inner peace, it unfolds through three chapters of melodic storytelling. This themed tour, centered around \"Veil\" alongside other original and cover works, asks: Who says exploration must be silent? Join a journey of self-discovery that weaves together both dynamism and introspection"
+    },
+    "venues": [
+      {
+        "id": "rendez-cq1st",
+        "name": {
+          "zh_cn": "重庆站",
+          "zh_tw": "重慶站",
+          "en": "Chongqing Stop"
+        },
+        "date": "2025.04.18",
+        "venue": {
+          "zh_cn": "蜚声重庆",
+          "zh_tw": "蜚聲重慶",
+          "en": "PHASE Livehouse Chongqing"
+        },
+        "time": "19:30",
+        "badge": "archive",
+        "concertName": {
+          "zh_cn": "隐音乐会重庆站",
+          "zh_tw": "隱音樂會重慶站",
+          "en": "Rendezvous Chongqing"
+        }
+      }
+    ]
+  }
+]
