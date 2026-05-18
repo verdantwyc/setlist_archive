@@ -3576,6 +3576,14 @@
       {
         "platform": "qq",
         "url": "https://i.y.qq.com/v8/playsong.html?songid=653196165"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=3381580474"
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/track/6f0P6xA8j5PcIpomn2u8om"
       }
     ],
     "genre": "原创",
@@ -3787,6 +3795,14 @@
       {
         "platform": "qq",
         "url": "https://i.y.qq.com/v8/playsong.html?songid=653232944"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=3378095126"
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/track/6KcQEYppdDYbgCkiOEksdf"
       }
     ],
     "genre": "原唱",
@@ -4280,7 +4296,20 @@
       "en": "Veil"
     },
     "intro": {},
-    "links": [],
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=653192630"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=3378095975"
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/track/7r0sMpAadETiioZjrrVa1d"
+      }
+    ],
     "genre": "原唱",
     "creditType": "composer"
   },
@@ -4310,7 +4339,20 @@
       "en": "Veil"
     },
     "intro": {},
-    "links": [],
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=653195085"
+      },
+      {
+        "platform": "netease",
+        "url": "https://music.163.com/#/song?id=3381579606"
+      },
+      {
+        "platform": "spotify",
+        "url": "https://open.spotify.com/track/2PDOJvYaQ4nwDwCTaqExqt"
+      }  
+    ],
     "genre": "原唱",
     "creditType": "composer"
   },
@@ -4338,7 +4380,12 @@
       "en": "Veil"
     },
     "intro": {},
-    "links": [],
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=653198702"
+      }
+    ],
     "genre": "原唱",
     "creditType": "composer"
   },
@@ -4372,7 +4419,12 @@
       "en": "Veil"
     },
     "intro": {},
-    "links": [],
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=653199105"
+      }
+    ],
     "genre": "原唱",
     "creditType": "composer"
   },
