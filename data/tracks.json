@@ -554,18 +554,31 @@
     "lyricist": {
       "zh_cn": "王允宸"
     },
-    "composer": {},
+    "composer": {
+      "zh_cn": "祝子由",
+      "zh_tw": "祝子由",
+      "en": "Zhu Ziyou"
+    },
     "arranger": {},
     "vocalist": {
       "zh_cn": "王允宸"
     },
-    "album": {},
+    "album": {
+      "zh_cn": "流星没有目的地",
+      "zh_tw": "流星沒有目的地",
+      "en": "Meteors Without A Destination",
+    },
     "intro": {
       "en": "First performed on April 27, 2024, during the first stop of the 'Light Echo' Tour in Guangzhou",
       "zh_cn": "首次演唱于 2024-04-27《光的回响》巡演首场广州站",
       "zh_tw": "首次演唱於 2024-04-27《光的迴響》巡演首場廣州站\n"
     },
-    "links": [],
+    "links": [
+      {
+        "platform": "qq",
+        "url": "https://i.y.qq.com/v8/playsong.html?songid=668322800"
+      }
+    ],
     "genre": "原创",
     "creditType": "composer"
   },
