@@ -73,8 +73,8 @@
           "zh_tw": "瓦肆VAS ear",
           "en": "VAS ear"
         },
-        "time": "",
-        "badge": "coming_soon",
+        "time": "16:00",
+        "badge": "archive",
         "concertName": {
           "zh_cn": "2026生日见面会After Party",
           "zh_tw": "2026生日見面會After Party",
@@ -84,9 +84,9 @@
       {
         "id": "bd-260627",
         "name": {
-          "zh_cn": "2026生日主题Live",
-          "zh_tw": "2026生日主題Live",
-          "en": "2026 Birthday-themed Live"
+          "zh_cn": "2026心想事宸Live",
+          "zh_tw": "2026心想事宸Live",
+          "en": "Dreams Come Chen Birthday Live"
         },
         "date": "2026.06.27",
         "venue": {
@@ -97,9 +97,9 @@
         "time": "",
         "badge": "coming_soon",
         "concertName": {
-          "zh_cn": "2026生日主题Live",
-          "zh_tw": "2026生日主題Live",
-          "en": "2026 Birthday-themed Live"
+          "zh_cn": "2026心想事宸Live",
+          "zh_tw": "2026心想事宸Live",
+          "en": "Dreams Come Chen Birthday Live"
         }
       }
     ]
