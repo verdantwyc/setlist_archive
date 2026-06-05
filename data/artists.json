@@ -1834,5 +1834,26 @@
     "zh_cn": "谢天依",
     "zh_tw": "謝天依",
     "en": "Xie Tianyi"
+  },
+  {
+    "zh_cn": "ENHYPEN",
+    "zh_tw": "ENHYPEN",
+    "en": "ENHYPEN"
+  },
+  {
+    "zh_cn": "李泰民",
+    "zh_tw": "泰民",
+    "en": "Taemin",
+    "aliases": {
+      "zh_cn": "泰民"
+    }
+  },
+  {
+    "zh_cn": "崔叡娜",
+    "zh_tw": "YENA",
+    "en": "YENA",
+    "aliases": {
+      "zh_cn": "YENA"
+    }
   }
 ]
