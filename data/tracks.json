@@ -4510,5 +4510,105 @@
     "links": [],
     "genre": "BGM",
     "creditType": "original"
+  },
+  {
+    "zh_cn": "Knife",
+    "zh_tw": "Knife",
+    "en": "Knife",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "ENHYPEN"
+    },
+    "album": {
+      "zh_tw": "THE SIN : VANISH",
+      "zh_cn": "THE SIN : VANISH",
+      "en": "THE SIN : VANISH"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Guilty",
+    "zh_tw": "Guilty",
+    "en": "Guilty",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "李泰民"
+    },
+    "album": {
+      "zh_tw": "Guilty",
+      "zh_cn": "Guilty",
+      "en": "Guilty"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Catch Catch",
+    "zh_tw": "Catch Catchy",
+    "en": "Catch Catch",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "崔叡娜"
+    },
+    "album": {
+      "zh_tw": "LOVE CATCHER",
+      "zh_cn": "LOVE CATCHER",
+      "en": "LOVE CATCHER"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Love Me More",
+    "zh_tw": "Love Me More",
+    "en": "Love Me More",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "Apink"
+    },
+    "album": {
+      "zh_tw": "RE : LOVE",
+      "zh_cn": "RE : LOVE",
+      "en": "RE : LOVE"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
+  },
+  {
+    "zh_cn": "Mr. Chu",
+    "zh_tw": "Mr. Chu",
+    "en": "Mr. Chu",
+    "lyricist": {},
+    "composer": {},
+    "arranger": {},
+    "vocalist": {
+      "zh_cn": "Apink"
+    },
+    "album": {
+      "zh_tw": "Pink Blossom",
+      "zh_cn": "Pink Blossom",
+      "en": "Pink Blossom"
+    },
+    "intro": {},
+    "links": [],
+    "genre": "BGM",
+    "creditType": "original"
   }
 ]
